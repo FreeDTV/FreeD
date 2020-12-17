@@ -1,0 +1,123 @@
+{
+  "data": [
+    {
+      "name": "直播源4K",
+      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
+      "type": "m3u",
+      "subTitle": "影视24小时直播整理中",
+      "click": true,
+      "webPlus": {}
+    },
+    {
+      "name": "直播源自用",
+      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
+      "url": "https://xxh668899.gitee.io/hometv/my.m3u",
+      "type": "m3u",
+      "subTitle": "影视24小时直播整理中",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "直播源（维护中）",
+      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/live.m3u",
+      "type": "m3u",
+      "subTitle": "影视24小时直播整理中",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "直播源（维护中）",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3203.jpg",
+      "url": "https://gitee.com/guyuexuan/iptv/raw/master/dist/iptv.m3u",
+      "type": "m3u",
+      "subTitle": "央视卫视高清直播源",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "在线教育",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3740.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/studay.m3u",
+      "type": "m3u",
+      "subTitle": "收集在线教育学习频道",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "动画电影",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/donghuadianying.json",
+      "type": "gitJson",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "webPlus": {}
+    },
+    {
+      "name": "豆瓣TOP100",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
+      "type": "gitJson",
+      "subTitle": "豆瓣TOP100",
+      "click": false
+    },
+    {
+      "name": "某酷24小时轮播",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/youku.json",
+      "type": "gitJson",
+      "noParse": true,
+      "subTitle": "某酷24小时轮播",
+      "click": false
+    },
+    {
+      "name": "电影轮播",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/电影轮播.json",
+      "type": "gitJson",
+      "subTitle": "电影轮播",
+      "click": true
+    },
+    {
+      "name": "电视轮播",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/电视轮播.json",
+      "type": "gitJson",
+      "subTitle": "电视轮播",
+      "click": true
+    },
+    {
+      "name": "动漫轮播",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/动漫轮播.json",
+      "type": "gitJson",
+      "subTitle": "动漫轮播",
+      "click": true
+    },
+    {
+      "name": "综艺轮播",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/综艺轮播.json",
+      "type": "gitJson",
+      "subTitle": "综艺轮播",
+      "click": true
+    },
+    {
+      "name": "",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01WQLE8i2C4PMQ0qRkd_!!913168420.png",
+      "url": "https://mp.weixin.qq.com/s/JSOlvmV8YH7rg0qTZdx7pA",
+      "type": "activity",
+      "subTitle": "打开微信扫一扫查看新版本，点赞，点广告，支持作者",
+      "click": false
+    },
+    {
+      "name": "",
+      "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN018shWqo2C4PULwuLuh_!!913168420.png",
+      "url": "http://www.a06.store/firstorder.html?id=88745",
+      "type": "activity",
+      "subTitle": "天猫首单礼金，浏览器扫一扫每天撸单(有具体教程)",
+      "click": false
+    }
+  ]
+}
