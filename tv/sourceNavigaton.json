@@ -43,6 +43,7 @@
       "type": "m3u",
       "subTitle": "收集在线教育学习频道",
       "click": false,
+      "parse": false,
       "webPlus": {}
     },
     {
@@ -67,7 +68,7 @@
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/youku.json",
       "type": "gitJson",
-      "noParse": true,
+      "parse": false,
       "subTitle": "某酷24小时轮播",
       "click": false
     },
@@ -77,6 +78,7 @@
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/电影轮播.json",
       "type": "gitJson",
       "subTitle": "电影轮播",
+      "parse": true,
       "click": true
     },
     {
@@ -85,6 +87,7 @@
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/电视轮播.json",
       "type": "gitJson",
       "subTitle": "电视轮播",
+      "parse": true,
       "click": true
     },
     {
@@ -93,6 +96,7 @@
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/动漫轮播.json",
       "type": "gitJson",
       "subTitle": "动漫轮播",
+      "parse": true,
       "click": true
     },
     {
@@ -101,6 +105,7 @@
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/综艺轮播.json",
       "type": "gitJson",
       "subTitle": "综艺轮播",
+      "parse": true,
       "click": true
     },
     {
