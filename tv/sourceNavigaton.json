@@ -75,7 +75,7 @@
     {
       "name": "电影轮播",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/电影轮播.json",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.json",
       "type": "gitJson",
       "subTitle": "电影轮播",
       "parse": true,
