@@ -12,7 +12,7 @@
     {
       "name": "轮播(选IKJ解码)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/live.m3u",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
