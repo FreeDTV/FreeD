@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "name": "直播源4K",
+      "name": "直播源",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "m3u",
       "subTitle": "影视24小时直播整理中",
       "click": true,
