@@ -15,7 +15,7 @@
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/donghuadianying.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
-      "click": true,
+      "click": false,
       "webPlus": {}
     },
     {
@@ -24,7 +24,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.json",
       "type": "gitJson",
       "subTitle": "电影轮播",
-      "click": true
+      "click": false
     },
     {
       "name": "电视轮播",
@@ -32,7 +32,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.json",
       "type": "gitJson",
       "subTitle": "电视轮播",
-      "click": true
+      "click": false
     },
     {
       "name": "动漫轮播",
@@ -40,7 +40,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/动漫轮播.json",
       "type": "gitJson",
       "subTitle": "动漫轮播",
-      "click": true
+      "click": false
     },
     {
       "name": "综艺轮播",
@@ -48,7 +48,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.json",
       "type": "gitJson",
       "subTitle": "综艺轮播",
-      "click": true
+      "click": false
     }
   ]
 }
