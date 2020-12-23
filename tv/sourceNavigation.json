@@ -69,7 +69,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/ceshi.txt",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
-      "click": true,
+      "click": false,
       "webPlus": {}
     },
     {
