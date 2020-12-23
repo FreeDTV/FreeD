@@ -39,7 +39,7 @@
     {
       "name": "CIBN轮播(选IKJ解码)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/icbn.m3u",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/cibn.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
