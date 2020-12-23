@@ -7,7 +7,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": false,
+      "click": true,
       "webPlus": {}
     },
     {
@@ -16,7 +16,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": false,
+      "click": true,
       "webPlus": {}
     },
     {
@@ -25,7 +25,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": false,
+      "click": true,
       "webPlus": {}
     },
     {
