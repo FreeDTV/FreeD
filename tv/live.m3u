@@ -1,583 +1,103 @@
 #EXTM3U
-#EXTINF:-1,峨眉山影视FHD
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1,丰顺影视
-https://p2.weizan.cn/1033266991/748750643185685521/live.m3u8
-#EXTINF:-1,峨眉电影
-http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1,峨眉电影
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1,KiD电影2
-http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,Best电影1
-http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,Best电影2
-http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,邵氏老电影
-http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
-#EXTINF:-1,美国电影
-http://dl.shanxiyaxing.com/优酷.php?id=8022040
-#EXTINF:-1,首播电影
-http://dlhdl-cdn.zhanqi.tv/zqlive/53346_ESoth.flv
-#EXTINF:-1,经典电影
-http://hpull.kktv8.com/livekktv/99350550/playlist.m3u8
-#EXTINF:-1,警匪电影
-http://dl.shanxiyaxing.com/优酷.php?id=8019691
-#EXTINF:-1,悬疑电影
-http://dl.shanxiyaxing.com/优酷.php?id=8019693
-#EXTINF:-1,盗墓电影
-http://dl.shanxiyaxing.com/优酷.php?id=8026522
-#EXTINF:-1,高清电影HD
-http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
-#EXTINF:-1,动漫电影HD
-http://112.17.40.140/PLTV/88888888/224/3221226178/index.m3u8
-#EXTINF:-1,黑莓电影
-http://39.134.67.55:80/wh7f454c46tw3646751599_-2006157738/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225743/1590395905-1.m3u8
-#EXTINF:-1,科幻電影
-http://106.54.30.243/dl/YY.php?t=35133142
-#EXTINF:-1,欧美英雄电影
-http://dl.shanxiyaxing.com/优酷.php?id=8026516
-#EXTINF:-1,河东影视
-http://jsylivealone302.iqilu.com/live/hedong_tv01/index.m3u8
-#EXTINF:-1,淮阳影视
-http://dlhdl-cdn.zhanqi.tv/zqlive/199301_y2bWG.flv
-#EXTINF:-1,星光影视
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/299458_Av0vD.m3u8
-#EXTINF:-1,蓝光影视1台
-http://112.17.40.145/PLTV/88888888/224/3221226608/index.m3u8
-#EXTINF:-1,蓝光影视2台
-http://112.17.40.145/PLTV/88888888/224/3221226606/index.m3u8
-#EXTINF:-1,蓝光影视3台
-http://112.17.40.145/PLTV/88888888/224/3221226360/index.m3u8
-#EXTINF:-1,亚洲影院
-http://101.71.255.229:6610/zjhs/2/10052/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,亚洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1,欧美影院
-http://101.71.255.229:6610/zjhs/2/10037/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
-#EXTINF:-1,欧美影院
-http://101.71.255.229:6610/zjhs/2/10037/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10037&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=Q894B3E8EEZ3T19UG09L8B03GSWB&ts=1553493266
-#EXTINF:-1,私人影院2
-http://tx2play1.douyucdn.cn/live/85894rmovieChow.flv
-#EXTINF:-1,私人影院3
-http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K_2000.flv?uuid=
-#EXTINF:-1,私人影院4
-http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_2000p.flv?uuid=
-#EXTINF:-1,终极影院
-http://pull.kktv8.com/livekktv/111536805.flv
-#EXTINF:-1,东方影视
-http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/4000000/mnf.m3u8
-#EXTINF:-1,东方影视
-http://liveplay-kk.rtxapp.com/live/program/live/dsjpdhd/2300000/mnf.m3u8
-#EXTINF:-1,东方影视
-http://140.207.241.2:8080/live/program/live/dsjpdhd/2300000/mnf.m3u8
-#EXTINF:-1,金马影院
-http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
-#EXTINF:-1,开心影院
-http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1,欧美影院
-http://125.210.152.18:9090/live/OMYY.m3u8
-#EXTINF:-1,亚洲影院
-http://125.210.152.18:9090/live/YZYY.m3u8
-#EXTINF:-1,亚洲影院
-http://101.71.255.229:6610/zjhs/2/10052/z.m3u8?ZTEUPSTREAM=1&IASHttpSessionId=SLB4328320190321203540013412&m3u8_level=2&ztecid=10052&virtualDomain=zjhs.live_hls.zte.com&ispcode=3&tid=C3V7K4ET1VFDUJY6C1IASRV55G66&ts=1553493153
-#EXTINF:-1,峨眉山影视
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1,天鹅影視
-http://223.110.243.146/ott.js.chinamobile.com/PLTV/3/224/3221227762/index.m3u8
-#EXTINF:-1,经典影院
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1,Y+影院
-http://111.0.93.5/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/index.m3u8?fmt=ts2hls
-#EXTINF:-1,TVB功夫台
-http://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
-#EXTINF:-1,TVB港剧二台
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/123407_XhQs9.m3u8
-#EXTINF:-1,周口电视剧
-http://dlhdl-cdn.zhanqi.tv/zqlive/194839_XtiBg.flv
-#EXTINF:-1,周口电视剧
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/194839_XtiBg.m3u8
-#EXTINF:-1,周润发粤语
-http://dl.shanxiyaxing.com/优酷.php?id=8019007
-#EXTINF:-1,经典
-http://hpull.kktv8.com/livekktv/104621340/playlist.m3u8
-#EXTINF:-1,影视
-http://hpull.kktv8.com/livekktv/99592190/playlist.m3u8
-#EXTINF:-1,电影动作大片
-http://dl.shanxiyaxing.com/优酷.php?id=8020409
-#EXTINF:-1,电影喜剧大片
-http://dl.shanxiyaxing.com/优酷.php?id=8020410
-#EXTINF:-1,电影爱情大片
-http://dl.shanxiyaxing.com/优酷.php?id=8020411
-#EXTINF:-1,科幻电影
-http://dl.shanxiyaxing.com/优酷.php?id=8019682
-#EXTINF:-1,金庸武侠电影集
-http://dl.shanxiyaxing.com/优酷.php?id=8026519
-#EXTINF:-1,金庸武侠电影集2
-http://dl.shanxiyaxing.com/优酷.php?id=8022364
-#EXTINF:-1,经典校园青春电影
-http://dl.shanxiyaxing.com/优酷.php?id=8018659
-#EXTINF:-1,七侠客栈
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/286120_2SFM6.m3u8
-#EXTINF:-1,精品剧场
-http://125.210.152.18:9090/live/JPJC.m3u8
-#EXTINF:-1,經典懷舊
-http://106.54.30.243/dl/YY.php?t=1353518742
-#EXTINF:-1,傑周潤發
-http://106.54.30.243/dl/163cc.php?t=19681748
-#EXTINF:-1,網球王子
-http://106.54.30.243/dl/YY.php?t=22777075
-#EXTINF:-1,動漫龍珠
-http://106.54.30.243/dl/YY.php?t=26664495
-#EXTINF:-1,女鬼相親
-http://106.54.30.243/dl/YY.php?t=24066336
-#EXTINF:-1,鬼片500
-http://106.54.30.243/dl/YY.php?t=1353059120
-#EXTINF:-1,歐美科幻
-http://106.54.30.243/dl/YY.php?t=37988782
-#EXTINF:-1,熱漫專場
-http://106.54.30.243/dl/YY.php?t=1353103539
-#EXTINF:-1,盜墓玄幻
-http://106.54.30.243/dl/YY.php?t=1352875014
-#EXTINF:-1,古惑仔片
-http://106.54.30.243/dl/YY.php?t=1352469735
-#EXTINF:-1,阿祖經典
-http://106.54.30.243/dl/YY.php?t=25560981
-#EXTINF:-1,迷妳短劇
-http://106.54.30.243/dl/YY.php?t=1351511282
-#EXTINF:-1,情满四合院
-http://dl.shanxiyaxing.com/优酷.php?id=8034725
-#EXTINF:-1,我们的八十年代
-http://dl.shanxiyaxing.com/优酷.php?id=8023159
-#EXTINF:-1,楚乔传
-http://dl.shanxiyaxing.com/优酷.php?id=8019958
-#EXTINF:-1,择天记
-http://dl.shanxiyaxing.com/优酷.php?id=8019978
-#EXTINF:-1,天生要完美
-http://dl.shanxiyaxing.com/优酷.php?id=8023119
-#EXTINF:-1,鬼片惊悚
-https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/381722/live_416544064_58389145.m3u8
-#EXTINF:-1,黑莓电竞
-http://39.135.137.35:80/wh7f454c46tw3709749107_77419460/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225675/1590395968-1.m3u8
-#EXTINF:-1,黑莓动画
-http://39.134.67.7:80/wh7f454c46tw3677941986_2066137605/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225662/1590395940-1.m3u8
-#EXTINF:-1,高清HD
-http://112.17.40.140/PLTV/88888888/224/3221226179/index.m3u8
-#EXTINF:-1,天威HD
-http://112.17.40.140/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,歌华HD
-http://112.17.40.140/PLTV/88888888/224/3221226245/index.m3u8
-#EXTINF:-1,家有儿女
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3807172
-#EXTINF:-1,热播剧场
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3801853
-#EXTINF:-1,抗战剧场
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3802154
-#EXTINF:-1,碟战剧场
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3802157
-#EXTINF:-1,青春剧场
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3802161
-#EXTINF:-1,经典重温
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3801152
-#EXTINF:-1,宫廷正剧
-http://dl.shanxiyaxing.com/爱奇艺.php?id=3801153
-#EXTINF:-1,欧美大片
-http://dl.shanxiyaxing.com/优酷.php?id=8020381
-#EXTINF:-1,粤语电影天堂
-http://dl.shanxiyaxing.com/优酷.php?id=8020382
-#EXTINF:-1,粤语电影综艺
-http://dl.shanxiyaxing.com/优酷.php?id=8019450
-#EXTINF:-1,香港经典影片
-http://dl.shanxiyaxing.com/优酷.php?id=8019324
-#EXTINF:-1,电影港片大片
-http://dl.shanxiyaxing.com/优酷.php?id=8020408
-#EXTINF:-1,武侠电影
-http://dl.shanxiyaxing.com/优酷.php?id=8019692
-#EXTINF:-1,酷影厅硬汉厅
-http://dl.shanxiyaxing.com/优酷.php?id=8032842
-#EXTINF:-1,爱国影片
-http://dl.shanxiyaxing.com/优酷.php?id=8019464
-#EXTINF:-1,爱国题材电影
-http://dl.shanxiyaxing.com/优酷.php?id=8019463
-#EXTINF:-1,红色经典
-http://dl.shanxiyaxing.com/优酷.php?id=8023167
-#EXTINF:-1,热血电影
-http://dl.shanxiyaxing.com/优酷.php?id=8022038
-#EXTINF:-1,古墓探险
-http://dl.shanxiyaxing.com/优酷.php?id=8022366
-#EXTINF:-1,德云社
-http://dl.shanxiyaxing.com/优酷.php?id=8045775
-#EXTINF:-1,搞笑视频大全
-http://dl.shanxiyaxing.com/优酷.php?id=8019254
-#EXTINF:-1,罗曼蒂克的时代电影
-http://dl.shanxiyaxing.com/优酷.php?id=8019680
-#EXTINF:-1,欢乐颂
-http://dl.shanxiyaxing.com/优酷.php?id=8019096
-#EXTINF:-1,筑梦情缘
-http://dl.shanxiyaxing.com/优酷.php?id=8019190
-#EXTINF:-1,推手
-http://dl.shanxiyaxing.com/优酷.php?id=8019092
-#EXTINF:-1,封神榜
-http://dl.shanxiyaxing.com/优酷.php?id=8034750
-#EXTINF:-1,谎言的诱惑
-http://dl.shanxiyaxing.com/优酷.php?id=8034734
-#EXTINF:-1,风云2
-http://dl.shanxiyaxing.com/优酷.php?id=8019979
-#EXTINF:-1,搞笑一家人
-http://dl.shanxiyaxing.com/优酷.php?id=8019637
-#EXTINF:-1,滚滚红尘
-http://dl.shanxiyaxing.com/优酷.php?id=8019956
-#EXTINF:-1,水浒传
-http://dl.shanxiyaxing.com/优酷.php?id=8034745
-#EXTINF:-1,如果可以这样爱
-http://dl.shanxiyaxing.com/优酷.php?id=8019192
-#EXTINF:-1,温暖的弦
-http://dl.shanxiyaxing.com/优酷.php?id=8034728
-#EXTINF:-1,我的团长我的团
-http://dl.shanxiyaxing.com/优酷.php?id=8023122
-#EXTINF:-1,時裝頻道
-http://jc-qlive-play.jingchangkan.cn/live/3473_171322168_W9MX.m3u8
-#EXTINF:-1,迪拜赛马
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist_b1600000.m3u8
-#EXTINF:-1,红星电视
-http://kprf-htlive.cdn.ngenix.net/live/_definst_/stream_high/chunklist.m3u8
-#EXTINF:-1,3D频道高清
-http://112.17.40.140/PLTV/88888888/224/3221226475/index.m3u8
-#EXTINF:-1,女团来了
-http://dl.shanxiyaxing.com/优酷.php?id=8019196
-#EXTINF:-1,欢乐集结号
-http://dl.shanxiyaxing.com/优酷.php?id=8022309
-#EXTINF:-1,一站到底
-http://dl.shanxiyaxing.com/优酷.php?id=8019585
-#EXTINF:-1,非你莫属
-http://dl.shanxiyaxing.com/优酷.php?id=8019584
-#EXTINF:-1,中国式相亲
-http://dl.shanxiyaxing.com/优酷.php?id=8023983
-#EXTINF:-1,音乐台高清
-http://112.17.40.140/PLTV/88888888/224/3221226120/index.m3u8
-#EXTINF:-1,欢笑剧场4K
-http://39.135.248.150/hwcdntest.hb.chinamobile.com/PLTV/88888888/224/3221226144/3.m3u8
-#EXTINF:-1,影视剧场
-http://223.110.245.157/ott.js.chinamobile.com/PLTV/3/224/3221227372/index.m3u8
-#EXTINF:-1,YY-亮剑 超清全屏
-http://www.mytvhd.xyz/yy.php?id=32110908
-#EXTINF:-1,YY-欧美《新电影》500部
-http://www.mytvhd.xyz/yy.php?id=14503914
-#EXTINF:-1,YY林正英
-http://www.mytvhd.xyz/yy.php?id=24066336
-#EXTINF:-1,YY爱情公寓
-http://www.mytvhd.xyz/yy.php?id=38525272
-#EXTINF:-1,YY-古惑仔系列
-http://www.mytvhd.xyz/yy.php?id=1382658857
-#EXTINF:-1,YY-林正英搞笑僵尸
-http://www.mytvhd.xyz/yy.php?id=1351505899
-#EXTINF:-1,YY-《欧美电影》狙击动作
-http://www.mytvhd.xyz/yy.php?id=1331053117
-#EXTINF:-1,YY-天龙倚天笑傲
-http://www.mytvhd.xyz/yy.php?id=1351814644
-#EXTINF:-1,YY-元芳你怎么看
-http://www.mytvhd.xyz/yy.php?id=1351755386
-#EXTINF:-1,YY欧美-新片500部
-http://www.mytvhd.xyz/yy.php?id=1353426319
-#EXTINF:-1,YY-康熙微服私访记-全集
-http://www.mytvhd.xyz/yy.php?id=34811100
-#EXTINF:-1,YY-铁齿铜牙纪晓岚
-http://www.mytvhd.xyz/yy.php?id=22039119
-#EXTINF:-1,YY恐怖片鬼片-港片最全
-http://www.mytvhd.xyz/yy.php?id=67242782
-#EXTINF:-1,YY林正英-僵尸王系列
-http://www.mytvhd.xyz/yy.php?id=1353685311
-#EXTINF:-1,YY-赌片 赌神 赌侠 赌圣
-http://www.mytvhd.xyz/yy.php?id=1352487950
-#EXTINF:-1,YY鹿鼎记- 高清经典
-http://www.mytvhd.xyz/yy.php?id=28265277
-#EXTINF:-1,YY重案六组-破案神剧
-http://www.mytvhd.xyz/yy.php?id=1382660045
-#EXTINF:-1,YY成龙经典-动作 搞笑
-http://www.mytvhd.xyz/yy.php?id=34460526
-#EXTINF:-1,YY海外电影-超燃巨作
-http://www.mytvhd.xyz/yy.php?id=26623173
-#EXTINF:-1,YY-乔四爷续集
-http://www.mytvhd.xyz/yy.php?id=39360972
-#EXTINF:-1,YY动漫-斗罗斗破
-http://www.mytvhd.xyz/yy.php?id=35742228
-#EXTINF:-1,YY-延禧攻略1-2部全集
-http://www.mytvhd.xyz/yy.php?id=21881901
-#EXTINF:-1,YY-燕双鹰专场
-http://www.mytvhd.xyz/yy.php?id=1352227153
-#EXTINF:-1,YY-港片 赌片 动作 喜剧
-http://www.mytvhd.xyz/yy.php?id=28751126
-#EXTINF:-1,YY僵尸玄幻-惊险刺激电影
-http://www.mytvhd.xyz/yy.php?id=24921161
-#EXTINF:-1,YY新三国-萌儿陪看
-http://www.mytvhd.xyz/yy.php?id=29216766
-#EXTINF:-1,YY新三国-电视剧
-http://www.mytvhd.xyz/yy.php?id=49259936
-#EXTINF:-1,YY-新主播，求照顾
-http://www.mytvhd.xyz/yy.php?id=1353074059
-#EXTINF:-1,YY-新主播，求照顾
-http://www.mytvhd.xyz/yy.php?id=1353507954
-#EXTINF:-1,YY-新主播，求照顾
-http://www.mytvhd.xyz/yy.php?id=1351417866
-#EXTINF:-1,YY-经典剧一【我是特种兵-一
-http://www.mytvhd.xyz/yy.php?id=37228835
-#EXTINF:-1,YY动漫- 斗罗斗破
-http://www.mytvhd.xyz/yy.php?id=33712228
-#EXTINF:-1,YY港片- 赌片 动作
-http://www.mytvhd.xyz/yy.php?id=1352216562
-#EXTINF:-1,YY港片- 赌片 动作
-http://www.mytvhd.xyz/yy.php?id=30532977
-#EXTINF:-1,YY斗罗斗破-超清全屏
-http://www.mytvhd.xyz/yy.php?id=1353098382
-#EXTINF:-1,YY-搞笑周星驰系列
-http://www.mytvhd.xyz/yy.php?id=1352227227
-#EXTINF:-1,YY-林正英《鬼片影视》
-http://www.mytvhd.xyz/yy.php?id=1353018737
-#EXTINF:-1,YY-电影-鬼片 女鬼来了
-http://www.mytvhd.xyz/yy.php?id=22006255
-#EXTINF:-1,YY利刃出击
-http://www.mytvhd.xyz/yy.php?id=1353990728
-#EXTINF:-1,NewTV黑莓电竞
-http://183.207.249.16/PLTV/3/224/3221225539/index.m3u8
-#EXTINF:-1,NewTV黑莓动画
-http://183.207.249.15/PLTV/3/224/3221225555/index.m3u8
-#EXTINF:-1,NewTV黑莓电影
-http://183.207.249.14/PLTV/3/224/3221225567/index.m3u8
-#EXTINF:-1,齐影视功夫
-http://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
-#EXTINF:-1,星光经典台
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/299458_Av0vD.m3u8
-#EXTINF:-1,周口影视频道
-http://dlhdl-cdn.zhanqi.tv/zqlive/80918_cr4oy.flv
-#EXTINF:-1,周口影视频道
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/80918_cr4oy.m3u8
-#EXTINF:-1,峨眉电影HD
-http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1,齐影视电视剧
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/295803_fLcJv.m3u8
-#EXTINF:-1,斗鱼经典电影1
-http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
-#EXTINF:-1,斗鱼经典电影2
-http://tx2play1.douyucdn.cn/122402rK7MO9bXSq.m3u8
-#EXTINF:-1,鹤峰影视台
-http://hefeng.live.tempsource.cjyun.org/videotmp/s10100-hftv2.m3u8
-#EXTINF:-1,齐影视功夫1台
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/301200_QSU3A.m3u8
-#EXTINF:-1,齐影视功夫2台
-https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1,AXN
-http://httpdvb.slave.nx96200.cn:13164/playurl?playtype=live&protocol=hls&playtoken=ABCDEFGHI&accesstoken=R5ECA3A64U3191B163K776AAA45I98525ADEPBM3238581V0Z9C465W1611EBE7BE3AEBED&&programid=4200900116.m3u8
-#EXTINF:-1,YY林正英电影1
-http://sousou2.top/dl/yy1.php?t=1353059120
-#EXTINF:-1,YY林正英电影2
-http://sousou2.top/dl/yy1.php?t=1351505899
-#EXTINF:-1,YY林正英电影4
-http://106.54.30.243/dl/YY.php?t=24066336
-#EXTINF:-1,YY林正英电影7
-http://sousou2.top/dl/yy1.php?t=37758710
-#EXTINF:-1,YY星雨电影馆
-http://sousou2.top/dl/yy1.php?t=21090129
-#EXTINF:-1,YY香港电影1
-http://sousou2.top/dl/yy1.php?t=29900720
-#EXTINF:-1,YY香港电影2
-http://sousou2.top/dl/yy1.php?t=1353881242
-#EXTINF:-1,YY香港电影3
-http://sousou2.top/dl/yy1.php?t=1350998397
-#EXTINF:-1,YY香港电影4
-http://sousou2.top/dl/yy1.php?t=25560981
-#EXTINF:-1,YY香港电影7
-http://sousou2.top/dl/yy1.php?t=1352487950
-#EXTINF:-1,YY香港电影9
-http://sousou2.top/dl/yy1.php?t=27377999
-#EXTINF:-1,YY香港电影10
-http://sousou2.top/dl/yy1.php?t=24066336
-#EXTINF:-1,YY香港电影11
-http://sousou2.top/dl/yy1.php?t=42932063
-#EXTINF:-1,YY香港电影12
-http://sousou2.top/dl/yy1.php?t=1351052509
-#EXTINF:-1,YY国内电影1
-http://sousou2.top/dl/yy1.php?t=1353455515
-#EXTINF:-1,YY表白墙电影
-http://sousou2.top/dl/yy1.php?t=23120006
-#EXTINF:-1,YY乐乐影视
-http://sousou2.top/dl/yy1.php?t=1353426319
-#EXTINF:-1,YY美国电影2
-http://sousou2.top/dl/yy1.php?t=35133142
-#EXTINF:-1,YY三国
-http://sousou2.top/dl/yy1.php?t=1352875014
-#EXTINF:-1,YY刁蛮公主
-http://106.54.30.243/dl/YY.php?t=1353518742
-#EXTINF:-1,YY亮剑超清
-http://sousou2.top/dl/yy1.php?t=32110908
-#EXTINF:-1,YY一代枭雄
-http://sousou2.top/dl/yy1.php?t=23870569
-#EXTINF:-1,YY神探狄仁杰
-http://sousou2.top/dl/yy1.php?t=1351755386
-#EXTINF:-1,YY国内电视剧
-http://112.17.40.145/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,24H怀旧剧场
-http://sousou2.top/dl/yy1.php?t=1350562684
-#EXTINF:-1,YY电视剧2
-http://sousou2.top/dl/yy1.php?t=26870427
-#EXTINF:-1,CHC动作电影
-http://dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
-#EXTINF:-1,CHC动作电影
-http://125.210.152.18:9090/live/DZDYHD_H265.m3u8
-#EXTINF:-1,CHC家庭影院
-http://125.210.152.18:9090/live/JTYYHD_H265.m3u8
-#EXTINF:-1,Y Y 4
-http://sousou2.top/dl/yy1.php?t=14503914
-#EXTINF:-1,Y Y 6
-http://sousou2.top/dl/yy1.php?t=38525272
-#EXTINF:-1,Y Y 7
-http://sousou2.top/dl/yy1.php?t=34811100
-#EXTINF:-1,Y Y 10
-http://sousou2.top/dl/yy1.php?t=1353507954
-#EXTINF:-1,Y Y 11
-http://sousou2.top/dl/yy1.php?t=77869868
-#EXTINF:-1,Y Y 12
-http://sousou2.top/dl/yy1.php?t=1352904942
-#EXTINF:-1,Y Y 14
-http://sousou2.top/dl/yy1.php?t=1420843376
-#EXTINF:-1,Y Y 15
-http://sousou2.top/dl/yy1.php?t=31100550
-#EXTINF:-1,Y Y 16
-http://sousou2.top/dl/yy1.php?t=28751126
-#EXTINF:-1,Y Y 18
-http://sousou2.top/dl/yy1.php?t=1352227153
-#EXTINF:-1,Y Y 19
-http://sousou2.top/dl/yy1.php?t=39589923
-#EXTINF:-1,Y Y 20
-http://sousou2.top/dl/yy1.php?t=1382658857
-#EXTINF:-1,Y Y 21
-http://sousou2.top/dl/yy1.php?t=28996058
-#EXTINF:-1,Y Y 23
-http://sousou2.top/dl/yy1.php?t=1351814644
-#EXTINF:-1,Y Y 26
-http://sousou2.top/dl/yy1.php?t=28265277
-#EXTINF:-1,Y Y 28
-http://sousou2.top/dl/yy1.php?t=1351762426
-#EXTINF:-1,Y Y 29
-http://sousou2.top/dl/yy1.php?t=1331053117
-#EXTINF:-1,Y Y 31
-http://sousou2.top/dl/yy1.php?t=29216766
-#EXTINF:-1,Y Y 32
-http://sousou2.top/dl/yy1.php?t=22039119
-#EXTINF:-1,Y Y 33
-http://sousou2.top/dl/yy1.php?t=37228835
-#EXTINF:-1,Y Y 34
-http://sousou2.top/dl/yy1.php?t=49259936
-#EXTINF:-1,Y Y 38
-http://sousou2.top/dl/yy1.php?t=30918390
-#EXTINF:-1,Y Y 39
-http://sousou2.top/dl/yy1.php?t=1352677541
-#EXTINF:-1,Y Y 40
-http://sousou2.top/dl/yy1.php?t=1353685311
-#EXTINF:-1,Y Y 41
-http://sousou2.top/dl/yy1.php?t=34460526
-#EXTINF:-1,Y Y 42
-http://sousou2.top/dl/yy1.php?t=23206872
-#EXTINF:-1,Y Y 43
-http://sousou2.top/dl/yy1.php?t=79049030
-#EXTINF:-1,Y Y 44
-http://sousou2.top/dl/yy1.php?t=29958059
-#EXTINF:-1,Y Y 49
-http://sousou2.top/dl/yy1.php?t=37988782
-#EXTINF:-1,Y Y 51
-http://sousou2.top/dl/yy1.php?t=27772604
-#EXTINF:-1,Y Y 54
-http://sousou2.top/dl/yy1.php?t=31809939
-#EXTINF:-1,Y Y 58
-http://sousou2.top/dl/yy1.php?t=28205255
-#EXTINF:-1,Y Y 62
-http://sousou2.top/dl/yy1.php?t=38650266
-#EXTINF:-1,Y Y 63
-http://sousou2.top/dl/yy1.php?t=1352469735
-#EXTINF:-1,Y Y 64
-http://sousou2.top/dl/yy1.php?t=1353312849
-#EXTINF:-1,Y Y 68
-http://sousou2.top/dl/yy1.php?t=1352227227
-#EXTINF:-1,Y Y 69
-http://sousou2.top/dl/yy1.php?t=40915353
-#EXTINF:-1,Y Y 70
-http://sousou2.top/dl/yy1.php?t=1353587611
-#EXTINF:-1,Y Y 71
-http://sousou2.top/dl/yy1.php?t=1353177492
-#EXTINF:-1,Y Y 72
-http://sousou2.top/dl/yy1.php?t=1353085648
-#EXTINF:-1,Y Y 73
-http://sousou2.top/dl/yy1.php?t=1351074342
-#EXTINF:-1,Y Y 74
-http://sousou2.top/dl/yy1.php?t=10425097
-#EXTINF:-1,Y Y 75
-http://sousou2.top/dl/yy1.php?t=1350670730
-#EXTINF:-1,Y Y 76
-http://sousou2.top/dl/yy1.php?t=37877178
-#EXTINF:-1,Y Y 77
-http://sousou2.top/dl/yy1.php?t=36377960
-#EXTINF:-1,Y Y 78
-http://sousou2.top/dl/yy1.php?t=30804490
-#EXTINF:-1,Y Y 79
-http://sousou2.top/dl/yy1.php?t=36949900
-#EXTINF:-1,Y Y 80
-http://sousou2.top/dl/yy1.php?t=23681346
-#EXTINF:-1,Y Y 83
-http://sousou2.top/dl/yy1.php?t=39204655
-#EXTINF:-1,Y Y 84
-http://sousou2.top/dl/yy1.php?t=1352216562
-#EXTINF:-1,Y Y 85
-http://sousou2.top/dl/yy1.php?t=24686090
-#EXTINF:-1,Y Y 86
-http://sousou2.top/dl/yy1.php?t=1352906405
-#EXTINF:-1,Y Y 88
-http://sousou2.top/dl/yy1.php?t=25519088
-#EXTINF:-1,Y Y 89
-http://sousou2.top/dl/yy1.php?t=27289502
-#EXTINF:-1,Y Y 90
-http://sousou2.top/dl/yy1.php?t=28099939
-#EXTINF:-1,Y Y 91
-http://sousou2.top/dl/yy1.php?t=1331686180
-#EXTINF:-1,Y Y 92
-http://sousou2.top/dl/yy1.php?t=1352356194
-#EXTINF:-1,Y Y 94
-http://sousou2.top/dl/yy1.php?t=1351844200
-#EXTINF:-1,Y Y 98
-http://sousou2.top/dl/yy1.php?t=36912445
-#EXTINF:-1,Y Y 102
-http://sousou2.top/dl/yy1.php?t=1352475619
-#EXTINF:-1,Y Y 103
-http://sousou2.top/dl/yy1.php?t=24407222
-#EXTINF:-1,Y Y 104
-http://sousou2.top/dl/yy1.php?t=22059534
-#EXTINF:-1,Y Y 105
-http://sousou2.top/dl/yy1.php?t=10425098
-#EXTINF:-1,Y Y 111
-http://sousou2.top/dl/yy1.php?t=1353518742
-#EXTINF:-1,Y Y 112
-http://sousou2.top/dl/yy1.php?t=1353098382
-#EXTINF:-1,Y Y 114
-http://sousou2.top/dl/yy1.php?t=26664495
-#EXTINF:-1,Y Y 115
-http://sousou2.top/dl/yy1.php?t=1351066072
-#EXTINF:-1,Y Y 116
-http://sousou2.top/dl/yy1.php?t=37708809
-#EXTINF:-1,Y Y 117
-http://sousou2.top/dl/yy1.php?t=22777075
-#EXTINF:-1,Y Y 118
-http://sousou2.top/dl/yy1.php?t=1351086880
-#EXTINF:-1,Y Y 120
-http://sousou2.top/dl/yy1.php?t=1353103539
-#EXTINF:-1,Y Y 121
-http://sousou2.top/dl/yy1.php?t=24208878
-#EXTINF:-1,Y Y 122
-http://sousou2.top/dl/yy1.php?t=1353392400
-#EXTINF:-1,Y Y 123
-http://sousou2.top/dl/yy1.php?t=1353594050
-#EXTINF:-1,Y Y 124
-http://sousou2.top/dl/yy1.php?t=1349469149
-#EXTINF:-1,Y Y 125
-http://sousou2.top/dl/yy1.php?t=31058047
-#EXTINF:-1,Y Y 126
-http://sousou2.top/dl/yy1.php?t=1351459730
-#EXTINF:-1,Y Y 127
-http://sousou2.top/dl/yy1.php?t=88229675
+#EXTINF:-1,CCTV-1
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000021973/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000021973&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=7764101598894648627&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYXwKeOz1GP2bIpggjjn1weukrSwO21vTM0NYD2WL8VI1vFgdQn05Z7p4gpeddGQDn
+#EXTINF:-1,CCTV-2
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000012442/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000012442&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000012442&owchid=ystenlive&owsid=2417541598893349980&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhY%2Fr4vn4zuSEiY7YRgaanCR5kCikTBlVF6GqhVNG2%2F3ouZq6mCW1NbrQoVbcPQ3uT2
+#EXTINF:-1,CCTV-3
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000011218/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000011218&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000011218&owchid=ystenlive&owsid=4214761598893406939&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYduAXchjCNR141P%2FMlBOVpYy3i%2BTE1ebaD8X6UPBCa6cjVMrcAuDULWpErtBvf3l8
+#EXTINF:-1,CCTV-4
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031664/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000031664&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000031664&owchid=ystenlive&owsid=3953531598893450395&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYw5zSBWgqf4iR%2BjQUR9Ualqs5%2B%2FpFWXcm60y9tRmWHp%2F93QcoIqzJ1u0VjhBb4xVj
+#EXTINF:-1,CCTV-5
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000004794/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000004794&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000004794&owchid=ystenlive&owsid=4620601598893498881&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhY7Y35mAa0vBuEbvuYAMJTr3EFDWh8J8uIghNwGf5UGJ6Z4kei8PMkzGsbYqOYzVEA
+#EXTINF:-1,CCTV-5+
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000018504/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000018504&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000018504&owchid=ystenlive&owsid=2404381598893548427&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYS3jMtBg12ZR6Jdaa2IIvw1eRZkzOvOKWsOgrFwghkE4VK9L9AZHVG9jMAPznwwkT
+#EXTINF:-1,CCTV-6
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000016466/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000016466&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000016466&owchid=ystenlive&owsid=6327291598893611988&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYUVdB0YqocAw1i5pWZBOeLDNR4FMasn1sw%2BUYlVI16c%2F9d2JV59lQJM088QbdlTfY
+#EXTINF:-1,CCTV-7
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000017218/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000017218&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000017218&owchid=ystenlive&owsid=8012091598893717544&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYPC27d1i8q5u6VbSbqHYC8A6zVsxLUV83H4%2BsG1bZ7tqUxlI%2BKH%2FzsCz7QoRRdgxV
+#EXTINF:-1,CCTV-8
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000031433/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000031433&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000031433&owchid=ystenlive&owsid=7315771598893771667&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYTR1Qit%2FK18H9rVCKAtrf4sfW%2BG%2Blu9DErsBWsXILue%2FSr3%2BtPgPGmkQBo1NYArY7
+#EXTINF:-1,CCTV-9
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000014583/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000014583&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000014583&owchid=ystenlive&owsid=3273601598893827150&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYuHVHyJ3ElQatC05vg0KGCI%2BwvtNedVrBydVNN4XV8dH8NojFPsAb30pefTsg2XSf
+#EXTINF:-1,CCTV-10
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000023734/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000023734&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000023734&owchid=ystenlive&owsid=8238201598893879305&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYVQI8GKaeg3oMA3bLYsnTLCpUz8wfY8iqHsUZ1xi%2B%2Bep%2Fc9YFAzkKAbaIrS4pLj89
+#EXTINF:-1,CCTV-11
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000019789/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000019789&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000019789&owchid=ystenlive&owsid=2335631598893920210&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhY8EZmdGfo%2B1jRlhTBJXikSlr704KIsi%2FMM5XiAZDhkmSh9hGHwpIP3n%2F44wJ2nvZj
+#EXTINF:-1,CCTV-12
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000032494/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000032494&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000032494&owchid=ystenlive&owsid=6772831598893971909&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYvwjgL4oIOJ5oPdAim58W6DO012JkPuKD76Q1sKHtcihOax5HPsuRyB%2BjTYHC02sT
+#EXTINF:-1,CCTV-13
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000021303/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000021303&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000021303&owchid=ystenlive&owsid=2176301598894015407&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYMhh9Ki%2FKi%2FEvYOkQhpanUf7iFEscekgKxr%2F3kNlJnw%2BlGCdqNDKht2qhTDABZ4dW
+#EXTINF:-1,CCTV-14
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000021349/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000021349&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000021349&owchid=ystenlive&owsid=9695281598894063759&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhY7dfzk4ycBlyExh1fND7Q5WjOii5sEVUoDk6X1ShP7aT1nyg388%2F17I2mkZeQoEMn
+#EXTINF:-1,CCTV-15
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000008163/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000008163&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000008163&owchid=ystenlive&owsid=9245961598894111453&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYyWl75POcVWV26eg8h1ULDfp2WGltqljPl5EfbrCsEcGa0hkOGif5Ra51OkzflTs7
+#EXTINF:-1,CCTV-17
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000005000056836/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000005000056836&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000005000056836&owchid=ystenlive&owsid=2162231598894157681&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYUDbQWbOHbx%2FKl9CwSfWQXlCakYJnRQ95dUWft8H4TK7wYFGBvarWWBkHza%2BIe4eI
+#EXTINF:-1,江西卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000013731/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000013731&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000013731&owchid=ystenlive&owsid=5046201598888030473&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYcg7HGjOo4NKxOt8W9b6OHaxunfwEZaJCaNAS%2BXMvwXx0mTqusDkuO9ekYfesbvrb
+#EXTINF:-1,湖南卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000009115/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000009115&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000009115&owchid=ystenlive&owsid=4045371598887939289&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhY%2F4E5iB44JhT5KbyE4msDo%2FS7xzWtpI3zw1nKbwAwYnwP0gwSmHKtE%2BUTQ%2BP%2F6zRG
+#EXTINF:-1,浙江卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000009806/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000009806&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000009806&owchid=ystenlive&owsid=8576671598887739488&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYNPo0XtdIT%2B9yZWkPQLwzY3LER5SSCj0NX5uvRkJ10%2BGdrp7URacvGCF2NWAmgWlh
+#EXTINF:-1,浙江卫视
+http://yd-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1,浙江卫视
+http://hw-m-l.cztv.com/channels/lantian/channel01/1080p.m3u8
+#EXTINF:-1,广东卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000028357/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000028357&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000028357&owchid=ystenlive&owsid=9366261598888433093&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYYiZPaUqJNLUGBZIYI6%2BVyeFDtnJsfyQiZv6n7K2h3O47GY6oOP0Uddc06FP9Q5Ss
+#EXTINF:-1,深圳卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000009227/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000009227&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000009227&owchid=ystenlive&owsid=2240551598887811662&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYP1QdwylRQsfwJoTjjhk071DkOAv3tydhUXl8sRfXfd9rcmZ%2Fch6RTIBZpNOMT8mW
+#EXTINF:-1,上海卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000030202/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000030202&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000030202&owchid=ystenlive&owsid=7262371598888142714&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYaQScXXJkl16tJ98sHiR3Q3aJxBUI9DPKHxjvw4MCaJF8MTlcEYF71mkuLraQijjg
+#EXTINF:-1,江苏卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000004684/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000004684&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000004684&owchid=ystenlive&owsid=5100571598887877401&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYe%2BewQ0qPI4zwaTS2rZovwf95gnlQdElBpv4d15tMROqHwQ03iPvO%2FweenzJzcjPq
+#EXTINF:-1,安徽卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000020780/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000020780&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000020780&owchid=ystenlive&owsid=9361131598888330297&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYvhdJOhUMJAEGBidlmVKr9pkB%2Bkn%2BLJPK9TJn0jKbC2IuTekyEFxlEu0fAxEpU53r
+#EXTINF:-1,北京卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000017156/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000017156&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000017156&owchid=ystenlive&owsid=7544711598888606732&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYz3nKFT54PuqyTclws7iN9xzgQ1sCvQaKcheMGE72hMjbMXgi5IL8qkxjYZToOAmB
+#EXTINF:-1,天津卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000000831/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000000831&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000000831&owchid=ystenlive&owsid=9819791598888075890&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYFPOl6wLWNcU3S0NTOa4fH6mE3vbivWUhgx80c2%2BYP05PZFZMxcRoH%2BdvukT8YbBS
+#EXTINF:-1,四川卫视
+http://182.138.51.71/PLTV/88888920/224/3221225782/index.m3u8
+#EXTINF:-1,重庆卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000018937/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000018937&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000018937&owchid=ystenlive&owsid=1971231598888278427&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYrjjf9kui8TCNk8W%2BAplSivYbbOSIGEW2aQRaJpBVKJfOK%2FdkGp0uB39UJSR0bqBN
+#EXTINF:-1,福建卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000009263/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000009263&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000009263&owchid=ystenlive&owsid=9426831598888544439&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYPzX45DWKRSb9rnkxdXzJs0jtPNqA6pvkL7C08VgkJreLxTSD3fYNdOWma9ycaJek
+#EXTINF:-1,厦门卫视
+http://cstvalic.v.myalicdn.com/cstv/xiamen_1/index.m3u8
+#EXTINF:-1,山东卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000012807/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000012807&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000012807&owchid=ystenlive&owsid=6334581598888214228&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYBx2ef1XgoDYaEwNtj62jFW9EYnBR353jTfiSC2cVpLNeL2gMKQA9NvHx8k7hUCAf
+#EXTINF:-1,广西卫视
+http://39.130.215.168:6610/gitv_live/G_GUANGXI-HD/G_GUANGXI-HD.m3u8
+#EXTINF:-1,广西卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000019837/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000019837&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000019837&owchid=ystenlive&owsid=9371251598894541551&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYFi7%2BFvkDU9C%2B%2BPaRGCTxk0vtz20LlHe1N8aWEsGKdV85jKgwFObAy6w3XEm5KyaU
+#EXTINF:-1,贵州卫视
+http://101.71.255.229:6610/zjhs/2/10015/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1,湖北卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000010355/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000010355&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000010355&owchid=ystenlive&owsid=6996861598888499466&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYlAwXrSekxRSUiVDsOzIWESGGGSncxtQwSWJsVMUP06As%2FvLm4pMgrz6ycH%2BHCmC4
+#EXTINF:-1,辽宁卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000024033/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000024033&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000024033&owchid=ystenlive&owsid=5162541598888391987&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYElfgXEcuvvLFpxk1zW%2FSmenDkz7v5yKznpS5FrkmRbXQVGfPyUu%2BLkmWioWv67pF
+#EXTINF:-1,河南卫视
+http://101.71.255.229:6610/zjhs/2/10153/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1,河北卫视
+http://101.71.255.229:6610/zjhs/2/10017/index.m3u8?virtualDomain=zjhs.live_hls.zte.com
+#EXTINF:-1,黑龙江卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000001000009082/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000001000009082&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000001000009082&owchid=ystenlive&owsid=6595361598888649031&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYOQGwnhZEAp8tjBb7hNpg82pucyUh4oEJllNNM19tijFQ%2F4CnH%2F9ZOlGoAqR5j70S
+#EXTINF:-1,陕西卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000007495/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000007495&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000007495&owchid=ystenlive&owsid=3158161598894748310&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYewVdQtUtLHYXPEOBzTb8bXb0KWxxGV4pIVvlMgxAe6zW9VizIa3KV9QRH8Jjxido
+#EXTINF:-1,甘肃卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000017827/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000017827&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000017827&owchid=ystenlive&owsid=1963781598894702048&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhY975CylWGlTBz9HEpUiUC3csAHQSFMy49dTkZA46A1WuvZLcPGaj9NlLkMgyUqVg%2F
+#EXTINF:-1,青海卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000013359/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000013359&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000013359&owchid=ystenlive&owsid=1393431598894837699&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYQyZNkYJFlbQ%2BPBNgcg445Ogz13Z8pHbVlyFGZGnbo16HLL9y5rJVg%2F7s5jbJtoiI
+#EXTINF:-1,山西卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000021220/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000021220&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000021220&owchid=ystenlive&owsid=2145311598894979849&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYeP4hPQr6Vl8pURYq9r3QV2ZFfsD78HbyuJSPe7IpEyY2jnDUPaZiDVy5sLmKPVsa
+#EXTINF:-1,宁夏卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/1000000002000031451/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=1000000002000031451&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=1000000002000031451&owchid=ystenlive&owsid=8214661598895170311&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOwSTJYAx4i6uIykCO63vhYffjFJDBOMIgPJP8lazKNN10BVDAOHI7sB7Pa1s7f%2BUjuO%2F2TZLuwxAk55F29aE6N
+#EXTINF:-1,内蒙古卫视
+http://live.m2oplus.nmtv.cn/1/sd/live.m3u8
+#EXTINF:-1,新疆卫视
+http://livehyw5.chinamcache.com/hyw/zb01.m3u8
+#EXTINF:-1,西藏卫视
+http://125.73.209.19/cache.ott.ystenlive.itv.cmvideo.cn:80/000000001000/6603041244077933770/1.m3u8?stbId=0000019901080866836D73828EA0366836&Contentid=6603041244077933770&mos=52live&livemode=1&channel-id=ystenlive&version=1.0&owaccmark=6603041244077933770&owchid=ystenlive&owsid=4632381598895255220&AuthInfo=99HQzfLkvKmUX1bvDK8pxibV%2BHp90qC55b2Fv%2Ba8ahOu58jQYyzETyMbzo9oZB4%2BPoTauf6473zoxdf7VTDX%2Ft5LopIc6RjyKGXRgoN%2Bx8l56G7xyWyiVLwuLw2WPpZQ
+#EXTINF:-1,兵团卫视
+http://101.71.255.229:6610/zjhs/2/10006/index.m3u8?virtualDomain=zjhs.live_hls.zte.com

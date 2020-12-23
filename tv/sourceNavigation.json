@@ -1,18 +1,28 @@
 {
   "data": [
+
     {
-      "name": "直播源4K",
-      "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p4216.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
+      "name": "央卫(选IKJ解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "m3u",
-      "subTitle": "影视24小时直播整理中",
-      "click": true,
+      "subTitle": "经典动画电影整理中",
+      "click": false,
       "webPlus": {}
     },
     {
-      "name": "轮播(选IKJ解码)",
+      "name": "iHOT(选IKJ解码)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": false,
+      "webPlus": {}
+    },
+    {
+      "name": "NewTV(选IKJ解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
