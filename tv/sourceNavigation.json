@@ -63,6 +63,14 @@
       "subTitle": "经典动画电影整理中",
       "click": true,
       "webPlus": {}
+    },    {
+      "name": "测试(选IKJ解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/ceshi.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "webPlus": {}
     },
     {
       "name": "动画电影",
