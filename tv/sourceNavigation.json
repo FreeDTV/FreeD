@@ -87,7 +87,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.json",
       "type": "gitJson",
       "subTitle": "电影轮播",
-      "click": false
+      "click": true
     },
     {
       "name": "电视轮播",
