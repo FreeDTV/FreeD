@@ -1,0 +1,125 @@
+{
+  "data": {
+    "banner": [
+      {
+        "id": 1,
+        "name": "717",
+        "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN018FpU8s2C4PVB9ZNKP_!!913168420.png",
+        "url": "https://s.click.ele.me/svfrCuu",
+        "color": "#00000000",
+        "type": "url://taobao",
+        "show": false
+      },
+      {
+        "id": 1,
+        "name": "717",
+        "pic": "http://img-haodanku-com.cdn.fudaiapp.com/4_1594899664593",
+        "url": "https://s.click.taobao.com/4BBBTyu",
+        "color": "#FFFFFF",
+        "type": "url://taobao",
+        "show": false
+      }
+    ],
+    "activity": [
+      {
+        "id": 1,
+        "name": "往期分享",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/day_movies.json",
+        "color": "11",
+        "type": "app://gitJson",
+        "show": true
+      },
+      {
+        "id": 1,
+        "name": "历史记录",
+        "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4200.jpg",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html",
+        "color": "11",
+        "type": "app://history",
+        "show": true
+      },
+      {
+        "id": 1,
+        "name": "更新日志",
+        "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2170.jpg",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html",
+        "color": "11",
+        "type": "app://updateInfo",
+        "show": true
+      },
+      {
+        "id": 2,
+        "name": "电视直播",
+        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
+        "color": "11",
+        "type": "app://m3u",
+        "show": true
+      },
+      {
+        "id": 2,
+        "name": "24小时轮播",
+        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2166.jpg",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/youku.json",
+        "color": "11",
+        "type": "app://gitJson",
+        "show": true
+      },
+      {
+        "id": 3,
+        "name": "云插件",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
+        "url": "https://s.click.taobao.com/kNqATyu",
+        "color": "1",
+        "type": "app://webPlug",
+        "show": true
+      },
+      {
+        "id": 3,
+        "name": "动画电影",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p2648.jpg",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/donghuadianying.json",
+        "color": "1",
+        "type": "app://gitJson",
+        "show": true
+      },
+      {
+        "id": 4,
+        "name": "口令查券",
+        "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2603.jpg",
+        "url": "https://s.click.taobao.com/PzYQSyu",
+        "color": "1",
+        "type": "app://chaquan",
+        "show": true
+      },
+      {
+        "id": 4,
+        "name": "支付宝红包",
+        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p3725.jpg",
+        "url": "https://m.tb.cn/h.VDlWwgX",
+        "color": "1",
+        "type": "app://alipay",
+        "show": true
+      },
+      {
+        "id": 4,
+        "name": "",
+        "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN01usCS3I2C4PSCm4CJO_!!913168420.jpg",
+        "url": "1571715733668",
+        "color": "1",
+        "type": "api://taobaohuodongid",
+        "show": true
+      },
+      {
+        "id": 1,
+        "name": "",
+        "pic": "http://img-haodanku-com.cdn.fudaiapp.com/FlorCl6BGl2H9IbVyLZSz47iQHqc",
+        "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/html/jd_activity.html",
+        "color": "11",
+        "type": "app://updateInfo",
+        "show": false
+      }
+    ]
+  }
+}
