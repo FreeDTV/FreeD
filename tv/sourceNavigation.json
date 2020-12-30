@@ -119,7 +119,7 @@
       "url": "https://gitee.com/aston314/freed/edit/master/tv/live.m3u",
       "type": "m3u",
       "subTitle": "测试",
-      "click": false
+      "click": true
     }
   ]
 }
