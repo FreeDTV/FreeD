@@ -116,7 +116,7 @@
     {
       "name": "测试",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/aston314/freed/edit/master/tv/live.m3u",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "m3u",
       "subTitle": "测试",
       "click": true
