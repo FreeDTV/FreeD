@@ -2,7 +2,7 @@
   "data": [
     {
       "id": 10,
-      "name": "尽量自己",
+      "name": "关注公众号",
       "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN0138COxa2C4PLuRRahZ_!!913168420.png",
       "url": "http://m.iqiyi.com/&&&ad-banner",
       "type": "app://x5WebParse",
@@ -18,7 +18,7 @@
     },
     {
       "id": 30,
-      "name": "Fork接口",
+      "name": "FreeD影院",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN018xEIKU2C4PLtpi5MS_!!913168420.png",
       "url": "http://m.youku.com/&&&ad-banner",
       "type": "app://x5WebParse",
@@ -34,7 +34,7 @@
     },
     {
       "id": 50,
-      "name": "关注公众号",
+      "name": "查看如何",
       "pic": "https://img.alicdn.com/imgextra/i2/913168420/O1CN01TByzHO2C4PLtAPI7V_!!913168420.jpg",
       "url": "https://www.mgtv.com/&&&ad-banner",
       "type": "app://x5WebParse",
@@ -50,7 +50,7 @@
     },
     {
       "id": 70,
-      "name": "FreeD影院",
+      "name": "自定义",
       "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01ErAlpR2C4PRpQxOh3_!!913168420.png",
       "url": "http://www.pptv.com/&&&ad-banner",
       "type": "app://x5WebParse",
@@ -66,7 +66,7 @@
     },
     {
       "id": 90,
-      "name": "自行定义",
+      "name": "数据源",
       "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01ggn4Uy2C4PRpQwG0r_!!913168420.png",
       "url": "https://vip.1905.com/&&&ad-banner",
       "type": "app://x5WebParse",
