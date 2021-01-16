@@ -963,7 +963,7 @@
       }
     },
     {
-      "name": "逗号影视",
+      "name": "逗号影视(已修复)",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -1146,8 +1146,8 @@
       "subMobileTitle": "质量非常之高",
       "click": true,
       "webPlus": {
-        "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
-        "nav_url": "https://cokemv.cn/index.php/vod/type/id/navCate/page/navPage.html",
+        "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
+        "nav_url": "https://cokemv.cn/vodtype/navCate-navPage.html",
         "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "COKEMV影视",
         "kw": "wd",
@@ -1159,12 +1159,14 @@
         ],
         "navHtml": {
           "name": [
+            "抖音电影",
             "电影",
             "电视剧",
             "动漫",
             "综艺"
           ],
           "cate": [
+            "5",
             "1",
             "2",
             "4",
