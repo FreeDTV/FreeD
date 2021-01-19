@@ -3225,7 +3225,7 @@
       "subMobileTitle": "质量非常之高",
       "click": true,
       "webPlus": {
-        "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
+        "search_url": "https://4kya.com/index.php/vod/search/wd/{kw}.html",
         "nav_url": "https://4kya.com/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
         "web_name": "4K",
