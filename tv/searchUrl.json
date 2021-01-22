@@ -21,7 +21,7 @@
       "name": "一只鱼",
       "url": "http://4kyu.cc/api.php/provide/vod/at/xml/",
       "cate": "蓝光电影,24&&蓝光影视,25&&蓝光动漫,26&&蓝光纪录片,31&&蓝光MV,32&&蓝光综艺,33",
-      "click": true,
+      "click": false,
       "wePlus": {}
     },
     {
