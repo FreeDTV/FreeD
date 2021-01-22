@@ -1691,7 +1691,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "ul.myui-content__list.playlist.clearfix",
+            "mainCss": "ul.myui-content__list.sort-list.clearfix",
             "mainIndex": 0,
             "regIndexList": [
               0
