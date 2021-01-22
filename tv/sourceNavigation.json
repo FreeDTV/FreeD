@@ -14,7 +14,7 @@
       "name": "iHOT(选IKJ解码)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4191.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
-      "type": "txt",
+      "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "webPlus": {}
@@ -23,7 +23,7 @@
       "name": "NewTV(选IKJ解码)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4192.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
-      "type": "m3u",
+      "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "webPlus": {}
