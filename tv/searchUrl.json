@@ -21,7 +21,7 @@
       "name": "神马(蓝光高清)",
       "url": "https://www.shenma4480.com/api.php/provide/vod/at/xml/",
       "cate": "电影,1动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&动画片,21&&国产剧,13&&日韩,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
+      "click": false,
       "wePlus": {}
     },
     {
