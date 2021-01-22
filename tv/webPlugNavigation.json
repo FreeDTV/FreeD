@@ -1634,8 +1634,8 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
-        "nav_url": "https://www.4kyu.cc.com/vodshow/navCate--------navPage---.html",
-        "cate_url": "https://www.4kyu.cc.com/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
+        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
+        "cate_url": "https://www.4kyu.cc/vodshow/cateNav-cateArea--cateCate-----catePage---cateYear.html",
         "web_name": "一只鱼",
         "kw": "wd",
         "params": [
