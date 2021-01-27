@@ -10,16 +10,34 @@
       "webPlus": {}
     },
     {
-      "name": "胡压(新增/ijk解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/huya.txt",
+      "name": "(新增)hy电影(选IJK解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
       "type": "txt",
-      "subTitle": "经典动画电影整理中",
+      "subTitle": "",
       "click": true,
       "webPlus": {}
     },
     {
-      "name": "有库(新增/IJK解码)",
+      "name": "(新增)hy电视(选IJK解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "webPlus": {}
+    },
+    {
+      "name": "(新增)hy综艺(选IJK解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "webPlus": {}
+    },
+    {
+      "name": "yk(新增/IJK解码)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
       "type": "txt",
@@ -87,15 +105,6 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/zhanqi.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
-      "click": true,
-      "webPlus": {}
-    },
-    {
-      "name": "测试",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
-      "type": "txt",
-      "subTitle": "",
       "click": true,
       "webPlus": {}
     }
