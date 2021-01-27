@@ -89,6 +89,15 @@
       "subTitle": "经典动画电影整理中",
       "click": true,
       "webPlus": {}
+    },
+    {
+      "name": "测试",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
+      "type": "txt",
+      "subTitle": "",
+      "click": true,
+      "webPlus": {}
     }
   ]
 }
