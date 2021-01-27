@@ -1,6 +1,32 @@
 {
   "data": [
-
+    {
+      "name": "萌鸡小队第三季",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/mjxd.json",
+      "type": "gitJson",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "webPlus": {}
+    },
+    {
+      "name": "胡压(新增/ijk解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/huya.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "webPlus": {}
+    },
+    {
+      "name": "有库(新增/IJK解码)",
+      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "webPlus": {}
+    },
     {
       "name": "央卫(已修复)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
@@ -63,63 +89,6 @@
       "subTitle": "经典动画电影整理中",
       "click": true,
       "webPlus": {}
-    },    {
-      "name": "测试(选IKJ解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/ceshi.txt",
-      "type": "txt",
-      "subTitle": "经典动画电影整理中",
-      "click": false,
-      "webPlus": {}
-    },
-    {
-      "name": "动画电影",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
-      "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/donghuadianying.json",
-      "type": "gitJson",
-      "subTitle": "经典动画电影整理中",
-      "click": false,
-      "webPlus": {}
-    },
-    {
-      "name": "电影轮播",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.json",
-      "type": "gitJson",
-      "subTitle": "电影轮播",
-      "click": true
-    },
-    {
-      "name": "电视轮播",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.json",
-      "type": "gitJson",
-      "subTitle": "电视轮播",
-      "click": false
-    },
-    {
-      "name": "动漫轮播",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/动漫轮播.json",
-      "type": "gitJson",
-      "subTitle": "动漫轮播",
-      "click": false
-    },
-    {
-      "name": "综艺轮播",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.json",
-      "type": "gitJson",
-      "subTitle": "综艺轮播",
-      "click": false
-    },
-    {
-      "name": "测试",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p4191.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
-      "type": "m3u",
-      "subTitle": "测试",
-      "click": true
     }
   ]
 }
