@@ -51,7 +51,7 @@
     {
       "id": 1,
       "name": "天空云",
-      "url": "https://m3u8.tiankongapi.com/api.php/provide/vod/at/xml/",
+      "url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&韩国剧,26&&美国剧,16&&日本剧,24&&大陆综艺,33&&日韩综艺,34&&国产动漫,28&&日本动漫,29&&欧美动漫,30",
       "click": true,
       "wePlus": {}
