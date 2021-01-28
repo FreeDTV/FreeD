@@ -7,7 +7,7 @@
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -57,7 +57,7 @@
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -67,7 +67,7 @@
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -77,7 +77,7 @@
       "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -107,7 +107,7 @@
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -117,7 +117,7 @@
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     }
   ]
