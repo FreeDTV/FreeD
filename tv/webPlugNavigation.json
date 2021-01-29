@@ -13,7 +13,7 @@
         "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
         "nav_url": "https://www.nfstar.net/vodtype/navCate-navPage.html",
         "cate_url": "https://www.nfmovies.com/search.php?page=catePage&searchtype=5&tid=cateNav&area=cateArea&year=cateYear",
-        "web_name": "暮光影视",
+        "web_name": "奈飞影视",
         "kw": "wd",
         "params": [
           {
@@ -178,7 +178,7 @@
         "search_url": "https://www.shenma4480.com/search/-------------.html?wd=",
         "nav_url": "https://www.shenma4480.com/type/navCate-navPage/",
         "cate_url": "https://www.shenma4480.com/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "完美看看影视",
+        "web_name": "神马高清",
         "kw": "wd",
         "params": [
           {
@@ -994,7 +994,7 @@
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
         "nav_url": "http://www.9ekk.com/vodshow/navCate/page/navPage",
         "cate_url": "http://9ekk.com/vodshow/cateNav/area/cateArea/page/catePage/year/cateYear/class/cateCate",
-        "web_name": "国语配音",
+        "web_name": "9亿看看",
         "kw": "wd",
         "params": [
           {
@@ -1152,7 +1152,7 @@
         "search_url": "https://4kya.com/index.php/vod/search/wd/{kw}.html",
         "nav_url": "https://4kya.com/index.php/vod/show/id/navCate/page/navPage.html",
         "cate_url": "https://cokemv.cn/index.php/vod/show/id/cateNav/page/catePage/year/cateYear.html",
-        "web_name": "4K",
+        "web_name": "4K资源(",
         "kw": "wd",
         "params": [
           {
@@ -1323,7 +1323,7 @@
         "search_url": "http://www.9rmb.com/search?wd={kw}",
         "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
         "cate_url": "http://1090ys1.com/whole/cateNav_cateArea_cateCate__cateYear___0_id_catePage.html",
-        "web_name": "94神马影视",
+        "web_name": "94神马",
         "kw": "wd",
         "params": [
           {
@@ -1480,7 +1480,7 @@
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
         "nav_url": "http://www.dmdm2020.com/dongmantype/navCate/page/navPage.html",
         "cate_url": "",
-        "web_name": "1090影视",
+        "web_name": "哆咪动漫",
         "kw": "wd",
         "params": [
           {
@@ -1647,7 +1647,7 @@
         "search_url": "http://8hyy.cc/search.php?searchword={kw}",
         "nav_url": "http://8hyy.cc/frim/navCate-navPage.html",
         "cate_url": "https://www.7xiady.cc/show/cateNav-cateArea--cateCate-----catePage---cateYear.html",
-        "web_name": "完美看看影视",
+        "web_name": "8号影院",
         "kw": "wd",
         "params": [
           {
