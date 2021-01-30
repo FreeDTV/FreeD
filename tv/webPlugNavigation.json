@@ -330,7 +330,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.hanmiys.com/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://www.hanmiys.com/vodshow/navCate--------navPage---.html",
