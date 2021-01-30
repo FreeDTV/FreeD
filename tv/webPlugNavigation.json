@@ -324,7 +324,7 @@
       }
     },
     {
-      "name": "蓝光高清(20210130新增)",
+      "name": "蓝光高清(新增部分没法看)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
@@ -481,7 +481,7 @@
       }
     },
     {
-      "name": "泡饭影视(20210130新增)",
+      "name": "泡饭影视(新增无法搜索)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/doubantop100.json",
       "type": "webPlug",
