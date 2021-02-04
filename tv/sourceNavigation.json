@@ -1,6 +1,17 @@
 {
   "data": [
     {
+      "name": "(新增)稳定轮播*荐*",
+      "pic": "https://pic4.iqiyipic.com/image/20201127/8d/fe/a_100435234_m_601_m1_260_360.jpg",
+      "url": "https://gitee.com/freedTV/freed/raw/master/tv/mjxd.json",
+      "type": "gitJson",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "萌鸡小队第三季",
       "pic": "https://pic4.iqiyipic.com/image/20201127/8d/fe/a_100435234_m_601_m1_260_360.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/mjxd.json",
