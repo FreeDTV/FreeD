@@ -4,7 +4,7 @@
       "name": "(新增)稳定轮播*荐*",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.json",
-      "type": "gitJson",
+      "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": true,
