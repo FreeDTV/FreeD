@@ -24,7 +24,7 @@
     },
     {
       "name": "(新增)hy电影(选IJK解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afegy1fmvjekvk6yj21hc0u0h7x.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电影轮播.txt",
       "type": "txt",
       "subTitle": "",
@@ -35,7 +35,7 @@
     },
     {
       "name": "(新增)hy电视(选IJK解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc6qp2sj31hc0u0k1p.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/电视轮播.txt",
       "type": "txt",
       "subTitle": "",
@@ -46,7 +46,7 @@
     },
     {
       "name": "(新增)hy综艺(选IJK解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "pic": "https://tva4.sinaimg.cn/large/a15b4afely1fnt9plhh8oj21hc0u0dxy.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/综艺轮播.txt",
       "type": "txt",
       "subTitle": "",
@@ -57,7 +57,7 @@
     },
     {
       "name": "yk(新增/IJK解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "pic": "https://tva1.sinaimg.cn/large/a15b4afely1fmvj6ly1yqj21hc0u00vv.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
@@ -68,7 +68,7 @@
     },
     {
       "name": "央卫(已修复)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
@@ -79,7 +79,7 @@
     },
     {
       "name": "iHOT系列",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4191.jpg",
+      "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
@@ -90,7 +90,7 @@
     },
     {
       "name": "NewTV(已修复)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4192.jpg",
+      "pic": "https://tva4.sinaimg.cn/large/a15b4afegy1fmvj99kec5j21hc0u0k7k.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
@@ -101,7 +101,7 @@
     },
     {
       "name": "YY轮播(选IKJ解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4188.jpg",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkipc63ij31hc0u0wv2.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/yy.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
@@ -123,7 +123,7 @@
     },
     {
       "name": "CIBN轮播(选IKJ解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4190.jpg",
+      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc1m6kij31hc0u0dv3.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/cibn.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
@@ -134,7 +134,7 @@
     },
     {
       "name": "战旗轮播(选IKJ解码)",
-      "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4193.jpg",
+      "pic": "https://tva4.sinaimg.cn/large/a15b4afegy1fmvjixo5vgj21hc0u0ngr.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/zhanqi.m3u",
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
