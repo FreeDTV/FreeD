@@ -30,7 +30,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -41,7 +41,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -52,7 +52,7 @@
       "subTitle": "",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
@@ -63,7 +63,7 @@
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,
-      "decoder": 0,
+      "decoder": 1,
       "webPlus": {}
     },
     {
