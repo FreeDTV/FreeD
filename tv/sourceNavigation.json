@@ -61,13 +61,13 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/youku.m3u",
       "type": "txt",
       "subTitle": "经典动画电影整理中",
-      "click": true,
+      "click": false,
       "autoNext": false,
       "decoder": 1,
       "webPlus": {}
     },
     {
-      "name": "央卫(已修复)",
+      "name": "央卫(更新:20210205)",
       "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1fodqgoyhkrj31hc0u0khb.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/live.m3u",
       "type": "txt",
@@ -82,17 +82,6 @@
       "pic": "https://tva3.sinaimg.cn/large/a15b4afegy1fmvjkpglf3j21hc0u0h59.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/ihot.m3u",
       "type": "m3u",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
-      "autoNext": false,
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "NewTV(已修复)",
-      "pic": "https://tva4.sinaimg.cn/large/a15b4afegy1fmvj99kec5j21hc0u0k7k.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/newtv.m3u",
-      "type": "txt",
       "subTitle": "经典动画电影整理中",
       "click": true,
       "autoNext": false,
@@ -117,17 +106,6 @@
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": false,
-      "autoNext": false,
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "CIBN轮播(选IKJ解码)",
-      "pic": "https://tva1.sinaimg.cn/large/0072Vf1pgy1foxkc1m6kij31hc0u0dv3.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/cibn.m3u",
-      "type": "m3u",
-      "subTitle": "经典动画电影整理中",
-      "click": true,
       "autoNext": false,
       "decoder": 0,
       "webPlus": {}
