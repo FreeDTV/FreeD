@@ -16,28 +16,11 @@
       "click": true,
       "wePlus": {}
     },
-
     {
       "id": 1,
-      "name": "被窝影视",
-      "url": "https://www.beiwoysw.com/api.php/provide/vod/at/xml",
-      "cate": "爱情片,8&&恐怖片,10&&剧情片,11&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&泰国剧,30&&综艺,3",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "77看片",
-      "url": "https://www.77kpp.com/inc/api.php",
-      "cate": "",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "沃酷云",
-      "url": "http://api.wokuzy.com/api/xml/wokum3u8_s",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,14&&韩国剧,16&&美国剧,17&&日本剧,19&&综艺,3&&动漫,4",
+      "name": "1886资源",
+      "url": "http://cj.1886zy.co/inc/api.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&综艺,3&&动漫,4",
       "click": true,
       "wePlus": {}
     },
@@ -46,6 +29,22 @@
       "name": "天空云",
       "url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&韩国剧,26&&美国剧,16&&日本剧,24&&大陆综艺,33&&日韩综艺,34&&国产动漫,28&&日本动漫,29&&欧美动漫,30",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "最大云",
+      "url": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,10&&韩国剧,11&&美国剧,15&&日本剧,20&&综艺,3&&动漫,4",
+      "click": true,
+      "wePlus": {}
+    },
+    {
+      "id": 1,
+      "name": "沃酷云",
+      "url": "http://api.wokuzy.com/api/xml/wokum3u8_s",
+      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,14&&韩国剧,16&&美国剧,17&&日本剧,19&&综艺,3&&动漫,4",
       "click": true,
       "wePlus": {}
     },
@@ -62,14 +61,6 @@
       "name": "OK云",
       "url": "http://cj.okzy.tv/inc/apickm3u8s.php",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&日本剧,17&&内地综艺,26日韩综艺,28&&国产动漫,23&&日本动漫,24&&欧美动漫,26",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "最大云",
-      "url": "http://www.zdziyuan.com/inc/api_zuidam3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,10&&韩国剧,11&&美国剧,15&&日本剧,20&&综艺,3&&动漫,4",
       "click": true,
       "wePlus": {}
     },
