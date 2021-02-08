@@ -8,7 +8,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
         "nav_url": "https://www.nfstar.net/vodtype/navCate-navPage.html",
@@ -972,7 +972,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选",
       "subMobileTitle": "质量非常之高",
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
         "nav_url": "https://cokemv.cn/vodtype/navCate-navPage.html",
@@ -2117,7 +2117,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "https://www.oy37.com/search.php?searchword={kw}",
         "nav_url": "https://www.oy37.com/navCate/indexnavPage.html",
