@@ -17,7 +17,7 @@
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/mjxd.json",
       "type": "gitJson",
       "subTitle": "经典动画电影整理中",
-      "click": true,
+      "click": false,
       "autoNext": true,
       "decoder": 0,
       "webPlus": {}
