@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1,科幻電影
 http://106.54.30.243/dl/YY.php?t=35133142
-#EXTINF:-1,精品剧场
-http://125.210.152.18:9090/live/JPJC.m3u8
 #EXTINF:-1,經典懷舊
 http://106.54.30.243/dl/YY.php?t=1353518742
 #EXTINF:-1,傑周潤發
@@ -28,89 +26,73 @@ http://106.54.30.243/dl/YY.php?t=25560981
 #EXTINF:-1,迷妳短劇
 http://106.54.30.243/dl/YY.php?t=1351511282
 #EXTINF:-1,YY-亮剑 超清全屏
-http://www.mytvhd.xyz/yy.php?id=32110908
+http://106.54.30.243/dl/YY.php?t=32110908
 #EXTINF:-1,YY-欧美《新电影》500部
-http://www.mytvhd.xyz/yy.php?id=14503914
-#EXTINF:-1,YY林正英
-http://www.mytvhd.xyz/yy.php?id=24066336
+http://106.54.30.243/dl/YY.php?t=14503914
 #EXTINF:-1,YY爱情公寓
-http://www.mytvhd.xyz/yy.php?id=38525272
+http://106.54.30.243/dl/YY.php?t=38525272
 #EXTINF:-1,YY-古惑仔系列
-http://www.mytvhd.xyz/yy.php?id=1382658857
+http://106.54.30.243/dl/YY.php?t=1382658857
 #EXTINF:-1,YY-林正英搞笑僵尸
-http://www.mytvhd.xyz/yy.php?id=1351505899
-#EXTINF:-1,YY-《欧美电影》狙击动作
-http://www.mytvhd.xyz/yy.php?id=1331053117
-#EXTINF:-1,YY-天龙倚天笑傲
-http://www.mytvhd.xyz/yy.php?id=1351814644
-#EXTINF:-1,YY-元芳你怎么看
-http://www.mytvhd.xyz/yy.php?id=1351755386
-#EXTINF:-1,YY欧美-新片500部
-http://www.mytvhd.xyz/yy.php?id=1353426319
-#EXTINF:-1,YY-康熙微服私访记-全集
-http://www.mytvhd.xyz/yy.php?id=34811100
-#EXTINF:-1,YY-铁齿铜牙纪晓岚
-http://www.mytvhd.xyz/yy.php?id=22039119
-#EXTINF:-1,YY恐怖片鬼片-港片最全
-http://www.mytvhd.xyz/yy.php?id=67242782
-#EXTINF:-1,YY林正英-僵尸王系列
-http://www.mytvhd.xyz/yy.php?id=1353685311
-#EXTINF:-1,YY-赌片 赌神 赌侠 赌圣
-http://www.mytvhd.xyz/yy.php?id=1352487950
-#EXTINF:-1,YY鹿鼎记- 高清经典
-http://www.mytvhd.xyz/yy.php?id=28265277
-#EXTINF:-1,YY重案六组-破案神剧
-http://www.mytvhd.xyz/yy.php?id=1382660045
-#EXTINF:-1,YY成龙经典-动作 搞笑
-http://www.mytvhd.xyz/yy.php?id=34460526
-#EXTINF:-1,YY海外电影-超燃巨作
-http://www.mytvhd.xyz/yy.php?id=26623173
-#EXTINF:-1,YY-乔四爷续集
-http://www.mytvhd.xyz/yy.php?id=39360972
-#EXTINF:-1,YY动漫-斗罗斗破
-http://www.mytvhd.xyz/yy.php?id=35742228
-#EXTINF:-1,YY-延禧攻略1-2部全集
-http://www.mytvhd.xyz/yy.php?id=21881901
-#EXTINF:-1,YY-燕双鹰专场
-http://www.mytvhd.xyz/yy.php?id=1352227153
-#EXTINF:-1,YY-港片 赌片 动作 喜剧
-http://www.mytvhd.xyz/yy.php?id=28751126
-#EXTINF:-1,YY僵尸玄幻-惊险刺激电影
-http://www.mytvhd.xyz/yy.php?id=24921161
-#EXTINF:-1,YY新三国-萌儿陪看
-http://www.mytvhd.xyz/yy.php?id=29216766
-#EXTINF:-1,YY新三国-电视剧
-http://www.mytvhd.xyz/yy.php?id=49259936
-#EXTINF:-1,YY-新主播，求照顾
-http://www.mytvhd.xyz/yy.php?id=1353074059
-#EXTINF:-1,YY-新主播，求照顾
-http://www.mytvhd.xyz/yy.php?id=1353507954
-#EXTINF:-1,YY-新主播，求照顾
-http://www.mytvhd.xyz/yy.php?id=1351417866
-#EXTINF:-1,YY-经典剧一【我是特种兵-一
-http://www.mytvhd.xyz/yy.php?id=37228835
-#EXTINF:-1,YY动漫- 斗罗斗破
-http://www.mytvhd.xyz/yy.php?id=33712228
-#EXTINF:-1,YY港片- 赌片 动作
-http://www.mytvhd.xyz/yy.php?id=1352216562
-#EXTINF:-1,YY港片- 赌片 动作
-http://www.mytvhd.xyz/yy.php?id=30532977
-#EXTINF:-1,YY斗罗斗破-超清全屏
-http://www.mytvhd.xyz/yy.php?id=1353098382
-#EXTINF:-1,YY-搞笑周星驰系列
-http://www.mytvhd.xyz/yy.php?id=1352227227
-#EXTINF:-1,YY-林正英《鬼片影视》
-http://www.mytvhd.xyz/yy.php?id=1353018737
-#EXTINF:-1,YY-电影-鬼片 女鬼来了
-http://www.mytvhd.xyz/yy.php?id=22006255
-#EXTINF:-1,YY利刃出击
-http://www.mytvhd.xyz/yy.php?id=1353990728
-#EXTINF:-1,YY林正英电影1
-http://106.54.30.243/dl/YY.php?t=1353059120
-#EXTINF:-1,YY林正英电影2
 http://106.54.30.243/dl/YY.php?t=1351505899
-#EXTINF:-1,YY林正英电影4
-http://106.54.30.243/dl/YY.php?t=24066336
+#EXTINF:-1,YY-《欧美电影》狙击动作
+http://106.54.30.243/dl/YY.php?t=1331053117
+#EXTINF:-1,YY-天龙倚天笑傲
+http://106.54.30.243/dl/YY.php?t=1351814644
+#EXTINF:-1,YY-元芳你怎么看
+http://106.54.30.243/dl/YY.php?t=1351755386
+#EXTINF:-1,YY欧美-新片500部
+http://106.54.30.243/dl/YY.php?t=1353426319
+#EXTINF:-1,YY-康熙微服私访记-全集
+http://106.54.30.243/dl/YY.php?t=34811100
+#EXTINF:-1,YY-铁齿铜牙纪晓岚
+http://106.54.30.243/dl/YY.php?t=22039119
+#EXTINF:-1,YY恐怖片鬼片-港片最全
+http://106.54.30.243/dl/YY.php?t=67242782
+#EXTINF:-1,YY林正英-僵尸王系列
+http://106.54.30.243/dl/YY.php?t=1353685311
+#EXTINF:-1,YY-赌片 赌神 赌侠 赌圣
+http://106.54.30.243/dl/YY.php?t=1352487950
+#EXTINF:-1,YY鹿鼎记- 高清经典
+http://106.54.30.243/dl/YY.php?t=28265277
+#EXTINF:-1,YY重案六组-破案神剧
+http://106.54.30.243/dl/YY.php?t=1382660045
+#EXTINF:-1,YY成龙经典-动作 搞笑
+http://106.54.30.243/dl/YY.php?t=34460526
+#EXTINF:-1,YY海外电影-超燃巨作
+http://106.54.30.243/dl/YY.php?t=26623173
+#EXTINF:-1,YY-乔四爷续集
+http://106.54.30.243/dl/YY.php?t=39360972
+#EXTINF:-1,YY-延禧攻略1-2部全集
+http://106.54.30.243/dl/YY.php?t=21881901
+#EXTINF:-1,YY-燕双鹰专场
+http://106.54.30.243/dl/YY.php?t=1352227153
+#EXTINF:-1,YY-港片 赌片 动作 喜剧
+http://106.54.30.243/dl/YY.php?t=28751126
+#EXTINF:-1,YY僵尸玄幻-惊险刺激电影
+http://106.54.30.243/dl/YY.php?t=24921161
+#EXTINF:-1,YY新三国-萌儿陪看
+http://106.54.30.243/dl/YY.php?t=29216766
+#EXTINF:-1,YY新三国-电视剧
+http://106.54.30.243/dl/YY.php?t=49259936
+#EXTINF:-1,YY-经典剧一【我是特种兵-一
+http://106.54.30.243/dl/YY.php?t=37228835
+#EXTINF:-1,YY动漫- 斗罗斗破
+http://106.54.30.243/dl/YY.php?t=33712228
+#EXTINF:-1,YY港片- 赌片 动作
+http://106.54.30.243/dl/YY.php?t=1352216562
+#EXTINF:-1,YY港片- 赌片 动作
+http://106.54.30.243/dl/YY.php?t=30532977
+#EXTINF:-1,YY斗罗斗破-超清全屏
+http://106.54.30.243/dl/YY.php?t=1353098382
+#EXTINF:-1,YY-搞笑周星驰系列
+http://106.54.30.243/dl/YY.php?t=1352227227
+#EXTINF:-1,YY-林正英《鬼片影视》
+http://106.54.30.243/dl/YY.php?t=1353018737
+#EXTINF:-1,YY-电影-鬼片 女鬼来了
+http://106.54.30.243/dl/YY.php?t=22006255
+#EXTINF:-1,YY利刃出击
+http://106.54.30.243/dl/YY.php?t=1353990728
 #EXTINF:-1,YY林正英电影7
 http://106.54.30.243/dl/YY.php?t=37758710
 #EXTINF:-1,YY星雨电影馆
@@ -121,14 +103,8 @@ http://106.54.30.243/dl/YY.php?t=29900720
 http://106.54.30.243/dl/YY.php?t=1353881242
 #EXTINF:-1,YY香港电影3
 http://106.54.30.243/dl/YY.php?t=1350998397
-#EXTINF:-1,YY香港电影4
-http://106.54.30.243/dl/YY.php?t=25560981
-#EXTINF:-1,YY香港电影7
-http://106.54.30.243/dl/YY.php?t=1352487950
 #EXTINF:-1,YY香港电影9
 http://106.54.30.243/dl/YY.php?t=27377999
-#EXTINF:-1,YY香港电影10
-http://106.54.30.243/dl/YY.php?t=24066336
 #EXTINF:-1,YY香港电影11
 http://106.54.30.243/dl/YY.php?t=42932063
 #EXTINF:-1,YY香港电影12
@@ -137,286 +113,68 @@ http://106.54.30.243/dl/YY.php?t=1351052509
 http://106.54.30.243/dl/YY.php?t=1353455515
 #EXTINF:-1,YY表白墙电影
 http://106.54.30.243/dl/YY.php?t=23120006
-#EXTINF:-1,YY乐乐影视
-http://106.54.30.243/dl/YY.php?t=1353426319
-#EXTINF:-1,YY美国电影2
-http://106.54.30.243/dl/YY.php?t=35133142
-#EXTINF:-1,YY三国
-http://106.54.30.243/dl/YY.php?t=1352875014
-#EXTINF:-1,YY刁蛮公主
-http://106.54.30.243/dl/YY.php?t=1353518742
-#EXTINF:-1,YY亮剑超清
-http://106.54.30.243/dl/YY.php?t=32110908
 #EXTINF:-1,YY一代枭雄
 http://106.54.30.243/dl/YY.php?t=23870569
-#EXTINF:-1,YY神探狄仁杰
-http://106.54.30.243/dl/YY.php?t=1351755386
-#EXTINF:-1,YY国内电视剧
-http://112.17.40.145/PLTV/88888888/224/3221226181/index.m3u8
-#EXTINF:-1,24H怀旧剧场
-http://106.54.30.243/dl/YY.php?t=1350562684
-#EXTINF:-1,YY电视剧2
-http://106.54.30.243/dl/YY.php?t=26870427
-#EXTINF:-1,Y Y 4
-http://106.54.30.243/dl/YY.php?t=14503914
-#EXTINF:-1,Y Y 6
-http://106.54.30.243/dl/YY.php?t=38525272
-#EXTINF:-1,Y Y 7
-http://106.54.30.243/dl/YY.php?t=34811100
-#EXTINF:-1,Y Y 10
-http://106.54.30.243/dl/YY.php?t=1353507954
-#EXTINF:-1,Y Y 11
-http://106.54.30.243/dl/YY.php?t=77869868
-#EXTINF:-1,Y Y 12
-http://106.54.30.243/dl/YY.php?t=1352904942
-#EXTINF:-1,Y Y 14
-http://106.54.30.243/dl/YY.php?t=1420843376
-#EXTINF:-1,Y Y 15
-http://106.54.30.243/dl/YY.php?t=31100550
-#EXTINF:-1,Y Y 16
-http://106.54.30.243/dl/YY.php?t=28751126
-#EXTINF:-1,Y Y 18
-http://106.54.30.243/dl/YY.php?t=1352227153
-#EXTINF:-1,Y Y 19
-http://106.54.30.243/dl/YY.php?t=39589923
-#EXTINF:-1,Y Y 20
-http://106.54.30.243/dl/YY.php?t=1382658857
-#EXTINF:-1,Y Y 21
-http://106.54.30.243/dl/YY.php?t=28996058
-#EXTINF:-1,Y Y 23
-http://106.54.30.243/dl/YY.php?t=1351814644
-#EXTINF:-1,Y Y 26
-http://106.54.30.243/dl/YY.php?t=28265277
-#EXTINF:-1,Y Y 28
-http://106.54.30.243/dl/YY.php?t=1351762426
-#EXTINF:-1,Y Y 29
-http://106.54.30.243/dl/YY.php?t=1331053117
-#EXTINF:-1,Y Y 31
-http://106.54.30.243/dl/YY.php?t=29216766
-#EXTINF:-1,Y Y 32
-http://106.54.30.243/dl/YY.php?t=22039119
-#EXTINF:-1,Y Y 33
-http://106.54.30.243/dl/YY.php?t=37228835
-#EXTINF:-1,Y Y 34
-http://106.54.30.243/dl/YY.php?t=49259936
-#EXTINF:-1,Y Y 38
-http://106.54.30.243/dl/YY.php?t=30918390
-#EXTINF:-1,Y Y 39
-http://106.54.30.243/dl/YY.php?t=1352677541
-#EXTINF:-1,Y Y 40
-http://106.54.30.243/dl/YY.php?t=1353685311
-#EXTINF:-1,Y Y 41
-http://106.54.30.243/dl/YY.php?t=34460526
-#EXTINF:-1,Y Y 42
-http://106.54.30.243/dl/YY.php?t=23206872
-#EXTINF:-1,Y Y 43
-http://106.54.30.243/dl/YY.php?t=79049030
-#EXTINF:-1,Y Y 44
-http://106.54.30.243/dl/YY.php?t=29958059
-#EXTINF:-1,Y Y 49
-http://106.54.30.243/dl/YY.php?t=37988782
-#EXTINF:-1,Y Y 51
-http://106.54.30.243/dl/YY.php?t=27772604
-#EXTINF:-1,Y Y 54
-http://106.54.30.243/dl/YY.php?t=31809939
-#EXTINF:-1,Y Y 58
-http://106.54.30.243/dl/YY.php?t=28205255
-#EXTINF:-1,Y Y 62
-http://106.54.30.243/dl/YY.php?t=38650266
-#EXTINF:-1,Y Y 63
-http://106.54.30.243/dl/YY.php?t=1352469735
-#EXTINF:-1,Y Y 64
-http://106.54.30.243/dl/YY.php?t=1353312849
-#EXTINF:-1,Y Y 68
-http://106.54.30.243/dl/YY.php?t=1352227227
-#EXTINF:-1,Y Y 69
-http://106.54.30.243/dl/YY.php?t=40915353
-#EXTINF:-1,Y Y 70
-http://106.54.30.243/dl/YY.php?t=1353587611
-#EXTINF:-1,Y Y 71
-http://106.54.30.243/dl/YY.php?t=1353177492
-#EXTINF:-1,Y Y 72
-http://106.54.30.243/dl/YY.php?t=1353085648
-#EXTINF:-1,Y Y 73
-http://106.54.30.243/dl/YY.php?t=1351074342
-#EXTINF:-1,Y Y 74
-http://106.54.30.243/dl/YY.php?t=10425097
-#EXTINF:-1,Y Y 75
-http://106.54.30.243/dl/YY.php?t=1350670730
-#EXTINF:-1,Y Y 76
-http://106.54.30.243/dl/YY.php?t=37877178
-#EXTINF:-1,Y Y 77
-http://106.54.30.243/dl/YY.php?t=36377960
-#EXTINF:-1,Y Y 78
-http://106.54.30.243/dl/YY.php?t=30804490
-#EXTINF:-1,Y Y 79
-http://106.54.30.243/dl/YY.php?t=36949900
-#EXTINF:-1,Y Y 80
-http://106.54.30.243/dl/YY.php?t=23681346
-#EXTINF:-1,Y Y 83
-http://106.54.30.243/dl/YY.php?t=39204655
-#EXTINF:-1,Y Y 84
-http://106.54.30.243/dl/YY.php?t=1352216562
-#EXTINF:-1,Y Y 85
-http://106.54.30.243/dl/YY.php?t=24686090
-#EXTINF:-1,Y Y 86
-http://106.54.30.243/dl/YY.php?t=1352906405
-#EXTINF:-1,Y Y 88
-http://106.54.30.243/dl/YY.php?t=25519088
-#EXTINF:-1,Y Y 89
-http://106.54.30.243/dl/YY.php?t=27289502
-#EXTINF:-1,Y Y 90
-http://106.54.30.243/dl/YY.php?t=28099939
-#EXTINF:-1,Y Y 91
-http://106.54.30.243/dl/YY.php?t=1331686180
-#EXTINF:-1,Y Y 92
-http://106.54.30.243/dl/YY.php?t=1352356194
-#EXTINF:-1,Y Y 94
-http://106.54.30.243/dl/YY.php?t=1351844200
-#EXTINF:-1,Y Y 98
-http://106.54.30.243/dl/YY.php?t=36912445
-#EXTINF:-1,Y Y 102
-http://106.54.30.243/dl/YY.php?t=1352475619
-#EXTINF:-1,Y Y 103
-http://106.54.30.243/dl/YY.php?t=24407222
-#EXTINF:-1,Y Y 104
-http://106.54.30.243/dl/YY.php?t=22059534
-#EXTINF:-1,Y Y 105
-http://106.54.30.243/dl/YY.php?t=10425098
-#EXTINF:-1,Y Y 111
-http://106.54.30.243/dl/YY.php?t=1353518742
-#EXTINF:-1,Y Y 112
-http://106.54.30.243/dl/YY.php?t=1353098382
-#EXTINF:-1,Y Y 114
-http://106.54.30.243/dl/YY.php?t=26664495
-#EXTINF:-1,Y Y 115
-http://106.54.30.243/dl/YY.php?t=1351066072
-#EXTINF:-1,Y Y 116
-http://106.54.30.243/dl/YY.php?t=37708809
-#EXTINF:-1,Y Y 117
-http://106.54.30.243/dl/YY.php?t=22777075
-#EXTINF:-1,Y Y 118
-http://106.54.30.243/dl/YY.php?t=1351086880
-#EXTINF:-1,Y Y 120
-http://106.54.30.243/dl/YY.php?t=1353103539
-#EXTINF:-1,Y Y 121
-http://106.54.30.243/dl/YY.php?t=24208878
-#EXTINF:-1,Y Y 122
-http://106.54.30.243/dl/YY.php?t=1353392400
-#EXTINF:-1,Y Y 123
-http://106.54.30.243/dl/YY.php?t=1353594050
-#EXTINF:-1,Y Y 124
-http://106.54.30.243/dl/YY.php?t=1349469149
-#EXTINF:-1,Y Y 125
-http://106.54.30.243/dl/YY.php?t=31058047
-#EXTINF:-1,Y Y 126
-http://106.54.30.243/dl/YY.php?t=1351459730
-#EXTINF:-1,Y Y 127
-http://106.54.30.243/dl/YY.php?t=88229675
-#EXTINF:-1,【老板来了】搞笑剧
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=38525272
 #EXTINF:-1,动漫 斗罗斗破全职
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1351086880
+http://106.54.30.243/dl/YY.php?t=1351086880
 #EXTINF:-1,水浒传
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=28440305
+http://106.54.30.243/dl/YY.php?t=28440305
 #EXTINF:-1,【荒野求生】德爷贝爷超清
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=35407333
+http://106.54.30.243/dl/YY.php?t=35407333
 #EXTINF:-1,【动漫】斗罗斗破
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=35742228
+http://106.54.30.243/dl/YY.php?t=35742228
 #EXTINF:-1,【重案六组】国产破案
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=33567888
+http://106.54.30.243/dl/YY.php?t=33567888
 #EXTINF:-1,丫头抗战经典剧
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=18971688
+http://106.54.30.243/dl/YY.php?t=18971688
 #EXTINF:-1,民兵葛二蛋
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=30665553
-#EXTINF:-1,新主播，求照顾
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=24929887
-#EXTINF:-1,新主播，求照顾
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1352227227
-#EXTINF:-1,新主播，求照顾
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=21972881
-#EXTINF:-1,燕双鹰专场
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1352227153
-#EXTINF:-1,【成龙】经典动作
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=27377999
+http://106.54.30.243/dl/YY.php?t=30665553
 #EXTINF:-1,【血色浪漫】经典回顾
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=33369999
+http://106.54.30.243/dl/YY.php?t=33369999
 #EXTINF:-1,好看电影来咯
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=36006777
+http://106.54.30.243/dl/YY.php?t=36006777
 #EXTINF:-1,灵魂喜剧《地下交通站》
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=29907996
+http://106.54.30.243/dl/YY.php?t=29907996
 #EXTINF:-1,帝艺港剧 悬疑 破案
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1350670730
+http://106.54.30.243/dl/YY.php?t=1350670730
 #EXTINF:-1,纪晓岚专属
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=63826933
-#EXTINF:-1,【动漫】 斗罗斗破
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=33712228
+http://106.54.30.243/dl/YY.php?t=63826933
 #EXTINF:-1,吃土都吃不上啊！
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1351053003
+http://106.54.30.243/dl/YY.php?t=1351053003
 #EXTINF:-1,游钓巨物【游钓中国】
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=37033366
+http://106.54.30.243/dl/YY.php?t=37033366
 #EXTINF:-1,【YY鸭】-海外剧场
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=29249921
+http://106.54.30.243/dl/YY.php?t=29249921
 #EXTINF:-1,【荒野求生】德爷
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=39123221
-#EXTINF:-1,英叔搞笑经典
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1351505899
+http://106.54.30.243/dl/YY.php?t=39123221
 #EXTINF:-1,陈翔六点半
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=31058047
+http://106.54.30.243/dl/YY.php?t=31058047
 #EXTINF:-1,芈月传
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=33556888
+http://106.54.30.243/dl/YY.php?t=33556888
 #EXTINF:-1,【金庸武侠剧】超清
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=21092633
+http://106.54.30.243/dl/YY.php?t=21092633
 #EXTINF:-1,经典喜剧《炊事班的故事》
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=78361511
+http://106.54.30.243/dl/YY.php?t=78361511
 #EXTINF:-1,24h经典三国
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=30168888
-#EXTINF:-1,电影
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1350998397
+http://106.54.30.243/dl/YY.php?t=30168888
 #EXTINF:-1,东北姑娘陪你看动漫
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1382609850
-#EXTINF:-1,【科幻 动作】安花
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=25560981
+http://106.54.30.243/dl/YY.php?t=1382609850
 #EXTINF:-1,[康熙王朝】独播
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=24686090
+http://106.54.30.243/dl/YY.php?t=24686090
 #EXTINF:-1,名侦探柯南
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=21135126
+http://106.54.30.243/dl/YY.php?t=21135126
 #EXTINF:-1,父母爱情
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1351074342
-#EXTINF:-1,网球王子
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=22777075
-#EXTINF:-1,宋小宝 赵四 豪哥 新人
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=1351059494
-#EXTINF:-1,【港片】超清 经典 电影
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=21090129
+http://106.54.30.243/dl/YY.php?t=1351074342
 #EXTINF:-1,欢乐颂
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=30804490
+http://106.54.30.243/dl/YY.php?t=30804490
 #EXTINF:-1,港剧悬疑破案
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=10425097
+http://106.54.30.243/dl/YY.php?t=10425097
 #EXTINF:-1,精湛闻名于世界的赌片
-http://66.zipeszn.xyz/qq1792493091/yy.php?id=31914327
-#EXTINF:-1,【動漫電影】龍珠
-http://106.54.30.243/dl/YY.php?t=26664495
-#EXTINF:-1,【林正英】女鬼相親
-http://106.54.30.243/dl/YY.php?t=24066336
-#EXTINF:-1,【林正英】鬼片500部
-http://106.54.30.243/dl/YY.php?t=1353059120
-#EXTINF:-1,【歐美科幻電影】
-http://106.54.30.243/dl/YY.php?t=37988782
-#EXTINF:-1,【科幻電影】24h
-http://106.54.30.243/dl/YY.php?t=35133142
+http://106.54.30.243/dl/YY.php?t=31914327
 #EXTINF:-1,【籃球火】羅誌祥
 http://106.54.30.243/dl/YY.php?t=36912445
 #EXTINF:-1,【菊椒男孩】影視解說大神
 http://106.54.30.243/dl/YY.php?t=1351494949
-#EXTINF:-1,【賭片動作片】【古惑仔】
-http://106.54.30.243/dl/YY.php?t=1352469735
-#EXTINF:-1,【阿祖】華語經典電影
-http://106.54.30.243/dl/YY.php?t=25560981
-#EXTINF:-1,【霹靂爺們兒】自創迷妳短劇
-http://106.54.30.243/dl/YY.php?t=1351511282
-#EXTINF:-1,香港经典搞笑鬼片
-http://106.54.30.243/dl/YY.php?t=1352227227
 #EXTINF:-1,经典影片武打科幻
 http://106.54.30.243/dl/YY.php?t=40915353
 #EXTINF:-1,畅聊情感剧场等你呦
@@ -429,45 +187,13 @@ http://106.54.30.243/dl/YY.php?t=57084183
 http://106.54.30.243/dl/YY.php?t=28938411
 #EXTINF:-1,24小时影厅华语外华经典
 http://106.54.30.243/dl/YY.php?t=1353085648
-#EXTINF:-1,爱情公寓高清
-http://106.54.30.243/dl/YY.php?t=38525272
-#EXTINF:-1,港剧港剧悬疑破案
-http://106.54.30.243/dl/YY.php?t=10425097
-#EXTINF:-1,纪晓岚专属
-http://106.54.30.243/dl/YY.php?t=63826933
-#EXTINF:-1,喜剧神剧交通站
-http://106.54.30.243/dl/YY.php?t=29907996
-#EXTINF:-1,亮剑超清全屏
-http://106.54.30.243/dl/YY.php?t=32110908
-#EXTINF:-1,[新三国]萌儿陪看
-http://106.54.30.243/dl/YY.php?t=29216766
 #EXTINF:-1,24H大宅门
 http://106.54.30.243/dl/YY.php?t=33519757
-#EXTINF:-1,帝艺港剧破案悬疑
-http://106.54.30.243/dl/YY.php?t=1350670730
 #EXTINF:-1,战狼三吴京
 http://106.54.30.243/dl/YY.php?t=37877178
-#EXTINF:-1,经典系列欢乐颂
-http://106.54.30.243/dl/YY.php?t=30804490
-#EXTINF:-1,破案神剧，元芳你怎么看
-http://106.54.30.243/dl/YY.php?t=1351755386
-#EXTINF:-1,战争频道，燕双鹰专场
-http://106.54.30.243/dl/YY.php?t=1352227153
 #EXTINF:-1,荒野求生德爷贝爷超清
 http://106.54.30.243/dl/YY.php?t=36949900
-#EXTINF:-1,铁齿铜牙纪晓岚
-http://106.54.30.243/dl/YY.php?t=22039119
-#EXTINF:-1,喜剧炊事班全集
-http://106.54.30.243/dl/YY.php?t=78361511
 #EXTINF:-1,火蓝刀锋
 http://106.54.30.243/dl/YY.php?t=39204655
-#EXTINF:-1,亮剑电影版
-http://106.54.30.243/dl/YY.php?t=1352216562
-#EXTINF:-1,喜剧李卫当官独播
-http://106.54.30.243/dl/YY.php?t=24686090
-#EXTINF:-1,天龙八部
-http://106.54.30.243/dl/YY.php?t=1351814644
 #EXTINF:-1,西游记
 http://106.54.30.243/dl/YY.php?t=1352906405
-#EXTINF:-1,YY音乐
-http://106.53.212.251/daili/yy.php?id=54880976
