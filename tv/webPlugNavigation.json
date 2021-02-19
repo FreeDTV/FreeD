@@ -8,6 +8,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
@@ -173,6 +174,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "https://www.shenma4480.com/search/-------------.html?wd=",
@@ -330,6 +332,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.hanmiys.com/vodsearch/-------------.html?wd={kw}",
@@ -487,6 +490,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
@@ -647,6 +651,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
@@ -804,6 +809,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
@@ -972,6 +978,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选",
       "subMobileTitle": "质量非常之高",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
@@ -1131,6 +1138,7 @@
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "https://www.dhfun.cn/search.php?searchword={kw}",
@@ -1306,6 +1314,7 @@
       "type": "webPlug",
       "subTitle": "清晰1080P/4K最高60帧",
       "subMobileTitle": "清晰1080P/4K最高60帧",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
@@ -1464,6 +1473,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选",
       "subMobileTitle": "质量非常之高",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "https://4kya.com/index.php/vod/search/wd/{kw}.html",
@@ -1635,6 +1645,7 @@
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
@@ -1792,6 +1803,7 @@
       "type": "webPlug",
       "subTitle": "高清无筛选",
       "subMobileTitle": "质量非常之高",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
@@ -1959,6 +1971,7 @@
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
+      "webOpen": true,
       "click": true,
       "webPlus": {
         "search_url": "http://8hyy.cc/search.php?searchword={kw}",
@@ -2117,6 +2130,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.oy37.com/search.php?searchword={kw}",
@@ -2274,6 +2288,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -2430,6 +2445,7 @@
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -2594,6 +2610,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -2750,6 +2767,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.k1080.net/index.php/vodshow/-------------.html?wd=",
@@ -2906,6 +2924,7 @@
       "type": "webPlug",
       "subTitle": "最低720P(菜单键或上下键选集)",
       "subMobileTitle": "最低720P",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.subaibai.com/grabble?q={kw}",
@@ -3084,6 +3103,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
@@ -3241,6 +3261,7 @@
       "type": "webPlug",
       "subTitle": "超高清有筛选先别用",
       "subMobileTitle": "超高清有筛选先别用",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -3397,6 +3418,7 @@
       "type": "webPlug",
       "subTitle": "高清有筛选",
       "subMobileTitle": "高清有筛选经常抽风",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "http://1090ys.com/?c=search",
@@ -3555,6 +3577,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
@@ -3711,6 +3734,7 @@
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
@@ -3871,6 +3895,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快无筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
@@ -4027,6 +4052,7 @@
       "type": "webPlug",
       "subTitle": "高清速度快有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清速度快有筛选",
+      "webOpen": true,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
