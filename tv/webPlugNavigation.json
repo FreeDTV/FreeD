@@ -1987,7 +1987,7 @@
       "ads": "",
       "webUrl": "https://www.nfstar.net",
       "webOpen": true,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
         "nav_url": "https://www.nfstar.net/vodtype/navCate-navPage.html",
@@ -2155,7 +2155,7 @@
       "ads": "",
       "webUrl": "https://www.subaibai.com",
       "webOpen": true,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.subaibai.com/grabble?q={kw}",
         "nav_url": "https://www.subaibai.com/movie_bt/movie_bt_series/navCate/page/navPage",
@@ -2336,7 +2336,7 @@
       "ads": "",
       "webUrl": "https://www.tzfile.com",
       "webOpen": true,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
         "nav_url": "https://www.tzfile.com/movie_bt/movie_bt_series/navCate/page/navPage",
@@ -2504,7 +2504,7 @@
       "ads": "",
       "webUrl": "http://www.nangua55.com/",
       "webOpen": true,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
         "nav_url": "https://www.tzfile.com/movie_bt/movie_bt_series/navCate/page/navPage",
