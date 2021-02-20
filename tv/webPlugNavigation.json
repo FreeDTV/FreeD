@@ -9,7 +9,7 @@
       "subMobileTitle": "高清速度快有筛选",
       "ads": "",
       "webUrl": "https://www.nfstar.net",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfstar.net/vodsearch/-------------/?wd={kw}",
@@ -337,7 +337,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.hanmiys.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.hanmiys.com/vodsearch/-------------.html?wd={kw}",
@@ -497,7 +497,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.paofans.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.paofans.com/show/-------------.html?wd={kw}",
@@ -659,7 +659,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.zhaikanys.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
@@ -819,7 +819,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.4kyu.cc",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.zhaikanys.com/vodsearch/-------------.html?wd={kw}",
@@ -989,7 +989,7 @@
       "subMobileTitle": "质量非常之高",
       "ads": "",
       "webUrl": "https://cokemv.cn",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://cokemv.cn/vodsearch/-------------.html?wd={kw}",
@@ -1151,7 +1151,7 @@
       "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "https://www.dhfun.cn",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.dhfun.cn/search.php?searchword={kw}",
@@ -1329,7 +1329,7 @@
       "subMobileTitle": "清晰1080P/4K最高60帧",
       "ads": "",
       "webUrl": "http://www.9ekk.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
@@ -1490,7 +1490,7 @@
       "subMobileTitle": "质量非常之高",
       "ads": "",
       "webUrl": "https://4kya.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://4kya.com/index.php/vod/search/wd/{kw}.html",
@@ -1664,7 +1664,7 @@
       "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "http://www.9rmb.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
@@ -1824,7 +1824,7 @@
       "subMobileTitle": "质量非常之高",
       "ads": "",
       "webUrl": "http://www.dmdm2020.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "http://www.dmdm2020.com/dongmansearch.html?wd={kw}",
@@ -1994,7 +1994,7 @@
       "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "http://8hyy.cc",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "http://8hyy.cc/search.php?searchword={kw}",
@@ -2154,7 +2154,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.oy37.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.oy37.com/search.php?searchword={kw}",
@@ -2314,7 +2314,7 @@
       "subMobileTitle": "高清速度快有筛选",
       "ads": "",
       "webUrl": "https://www.muguangys.xyz",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -2473,7 +2473,7 @@
       "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "https://www.wanmeikk.me",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -2640,7 +2640,7 @@
       "subMobileTitle": "高清有筛选",
       "ads": "",
       "webUrl": "https://www.7xiady.cc",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -2799,7 +2799,7 @@
       "subMobileTitle": "高清有筛选",
       "ads": "",
       "webUrl": "https://www.k1080.net",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.k1080.net/index.php/vodshow/-------------.html?wd=",
@@ -2958,7 +2958,7 @@
       "subMobileTitle": "最低720P",
       "ads": "",
       "webUrl": "https://www.subaibai.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.subaibai.com/grabble?q={kw}",
@@ -3139,7 +3139,7 @@
       "subMobileTitle": "高清速度快有筛选",
       "ads": "",
       "webUrl": "https://www.nfmovies.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
@@ -3299,7 +3299,7 @@
       "subMobileTitle": "超高清有筛选先别用",
       "ads": "",
       "webUrl": "https://www.duboku.co",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.muguangys.xyz/vodsearch/-------------.html?wd=",
@@ -3458,7 +3458,7 @@
       "subMobileTitle": "高清有筛选经常抽风",
       "ads": "",
       "webUrl": "http://1090ys1.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "http://1090ys.com/?c=search",
@@ -3619,7 +3619,7 @@
       "subMobileTitle": "高清速度快有筛选",
       "ads": "",
       "webUrl": "https://www.zhenbuka.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
@@ -3778,7 +3778,7 @@
       "subMobileTitle": "高清无筛选",
       "ads": "",
       "webUrl": "http://www.ameiju.net",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
@@ -3941,7 +3941,7 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://www.mengmiandaxia.cn",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
@@ -4100,7 +4100,7 @@
       "subMobileTitle": "高清速度快有筛选",
       "ads": "",
       "webUrl": "https://www.tzfile.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": false,
       "webPlus": {
         "search_url": "https://www.nfmovies.com/search.php?searchword={kw}",
