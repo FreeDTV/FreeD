@@ -176,7 +176,7 @@
       "subTitle": "高清有筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清有筛选",
       "webUrl": "https://www.shenma4480.com",
-      "webOpen": true,
+      "webOpen": false,
       "click": true,
       "webPlus": {
         "search_url": "https://www.shenma4480.com/search/-------------.html?wd=",
