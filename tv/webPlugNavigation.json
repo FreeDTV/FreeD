@@ -9303,8 +9303,8 @@
       "subMobileTitle": "高清速度快无筛选",
       "ads": "",
       "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
-      "webOpen": false,
-      "click": false,
+      "webOpen": true,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.zhenbuka.com/vodsearch/-------------.html?wd=",
         "nav_url": "https://www.mengmiandaxia.cn/cate/navCate?page=navPage",
