@@ -75,7 +75,7 @@
     },
     {
       "id": 1,
-      "name": "快播云",
+      "name": "快云",
       "url": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&日韩剧,15&&美国剧,16&&综艺,3&&动漫,4",
       "click": true,
