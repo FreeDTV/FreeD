@@ -8,22 +8,6 @@
       "click": true,
       "wePlus": {}
     },
-    {
-      "id": 1,
-      "name": "宅看(蓝光高清)",
-      "url": "https://www.zhaikanys.com/api.php/provide/vod/at/xml/",
-      "cate": "动漫,4&&动漫电影,22&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&剧情片,11&&战争片,12&&国产剧,13&&日韩剧,15&&欧美剧,16&&4K专区,20",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "一只鱼",
-      "url": "http://4kyu.cc/api.php/provide/vod/at/xml/",
-      "cate": "蓝光电影,24&&蓝光影视,25&&蓝光动漫,26&&蓝光纪录片,31&&蓝光MV,32&&蓝光综艺,33",
-      "click": false,
-      "wePlus": {}
-    },
 
     {
       "id": 1,
