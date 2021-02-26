@@ -2066,23 +2066,7 @@
       "webUrl": "https://v.qq.com/",
       "webOpen": true,
       "click": true
-    },
-     {
-      "name": "百度",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.baidu.com/",
-      "webOpen": true,
-      "click": true
-    },
-     {
-      "name": "百度2",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.baidu.com/",
-      "webOpen": true,
-      "click": true
-    },    
+    },   
     {
       "name": "企鹅电竞一起看",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
