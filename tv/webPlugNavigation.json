@@ -2047,6 +2047,14 @@
       "name": "测试正规站",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
       "ads": "",
+      "webUrl": "https://www.360kan.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "测试正规站",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
       "webUrl": "https://www.iqiyi.com/",
       "webOpen": true,
       "click": true
