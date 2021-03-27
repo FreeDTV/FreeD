@@ -14,12 +14,57 @@
     "activity": [
       {
         "id": 1,
+        "name": "团长资源",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
+        "url": "https://www.tzfile.com/&&&continuefaf,weizhenwx",
+        "color": "11",
+        "type": "app://shopWeb",
+        "show": true
+      },
+      {
+        "id": 1,
+        "name": "素白白",
+        "pic": "https://img9.doubanio.com/view/activity_page/raw/public/1819.jpg",
+        "url": "https://www.subaibai.com/&&&jsdocker.com,rdezbie.com,maidagu.com",
+        "color": "11",
+        "type": "app://shopWeb",
+        "show": true
+      },
+      {
+        "id": 1,
+        "name": "奈非影视",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4189.jpg",
+        "url": "https://www.nfstar.net/&&&thunderPid,thunderurl,googletagmanager,analytics.com,6059cb598322e6675c4ddcdc",
+        "color": "11",
+        "type": "app://shopWeb",
+        "show": true
+      },  
+      {
+        "id": 1,
+        "name": "低端",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4194.jpg",
+        "url": "https://ddrk.me/&&&thunderPid,thunderurl,googletagmanager,analytics.com,6059cb598322e6675c4ddcdc",
+        "color": "11",
+        "type": "app://shopWeb",
+        "show": true
+      },  
+      {
+        "id": 1,
+        "name": "AGE动漫",
+        "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4197.jpg",
+        "url": "https://www.agefans.net/&&&thunderPid,thunderurl,googletagmanager,analytics.com,6059cb598322e6675c4ddcdc",
+        "color": "11",
+        "type": "app://shopWeb",
+        "show": true
+      },        
+      {
+        "id": 1,
         "name": "往期分享",
         "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p4187.jpg",
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/tv/day_movies.json",
         "color": "11",
         "type": "app://gitJson",
-        "show": true
+        "show": false
       },
       {
         "id": 1,
@@ -28,7 +73,7 @@
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html",
         "color": "11",
         "type": "app://history",
-        "show": true
+        "show": false
       },
       {
         "id": 1,
@@ -37,7 +82,7 @@
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html",
         "color": "11",
         "type": "app://updateInfo",
-        "show": true
+        "show": false
       },
       {
         "id": 2,
@@ -46,7 +91,7 @@
         "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/live/new.m3u",
         "color": "11",
         "type": "app://m3u",
-        "show": true
+        "show": false
       },
       {
         "id": 2,
@@ -64,7 +109,7 @@
         "url": "https://s.click.taobao.com/kNqATyu",
         "color": "1",
         "type": "app://webPlug",
-        "show": true
+        "show": false
       },
       {
         "id": 3,
