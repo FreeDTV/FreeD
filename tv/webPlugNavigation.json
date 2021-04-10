@@ -1,6 +1,14 @@
 {
   "data": [
     {
+      "name": "米子影院",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.mizi.cc/",
+      "webOpen": true,
+      "click": false
+    },
+    {
       "name": "神马高清(新增)",
       "pic": "https://img1.doubanio.com/view/activity_page/raw/public/p3728.jpg",
       "type": "webPlug",
@@ -1543,70 +1551,6 @@
       "webUrl": "https://live.bilibili.com/p/eden/area-tags?visit_id=c6opq06jels0&areaId=33&parentAreaId=10",
       "webOpen": true,
       "click": true
-    },
-    {
-      "name": "虎牙一起看",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.huya.com/g/seeTogether",
-      "webOpen": true,
-      "click": false
-    },
-    {
-      "name": "斗鱼一起看",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.douyu.com/g_yqk",
-      "webOpen": true,
-      "click": false
-    },
-    {
-      "name": "测试正规站",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.iqiyi.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "测试正规站",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.youku.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "测试正规站",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://v.qq.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "百度",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.baidu.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "企鹅电竞一起看",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110&tagId=0&tagIdStr=",
-      "webOpen": true,
-      "click": false
-    },
-    {
-      "name": "米子影院",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "https://www.mizi.cc/",
-      "webOpen": true,
-      "click": false
     }
   ]
 }
