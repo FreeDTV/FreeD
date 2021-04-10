@@ -1599,6 +1599,14 @@
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110&tagId=0&tagIdStr=",
       "webOpen": true,
       "click": false
+    },
+    {
+      "name": "米子影院",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.mizi.cc/",
+      "webOpen": true,
+      "click": false
     }
   ]
 }
