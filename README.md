@@ -9,9 +9,8 @@ FREED
 
 #### 安装教程
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+自建接口地址:
+https://cdn.jsdelivr.net/gh/lon91ong/FreeD@master/tv
 
 #### 使用说明
 
