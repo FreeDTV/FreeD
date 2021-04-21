@@ -603,20 +603,20 @@
       }
     },
     {
-      "name": "逗号影视(已修复)",
+      "name": "速速电影",
       "pic": "https://img9.doubanio.com/view/activity_page/raw/public/p2446.jpg",
       "type": "webPlug",
       "subTitle": "高清无筛选(菜单键或上下键选集)",
       "subMobileTitle": "高清无筛选",
       "ads": "",
-      "webUrl": "https://www.dhfun.cn",
+      "webUrl": "http://www.susudm.com",
       "webOpen": false,
       "click": true,
       "webPlus": {
-        "search_url": "https://www.dhfun.cn/search.php?searchword={kw}",
-        "nav_url": "https://www.dhfun.cn/list/navCate-navPage.html",
+        "search_url": "http://www.susudm.com/search.php?searchword={kw}",
+        "nav_url": "http://www.susudm.com/list/navCate-navPage.html",
         "cate_url": "http://www.ameiju.net/vodshow/cateNav-cateArea--cateCate--catePage--cateYear.html",
-        "web_name": "逗号影视",
+        "web_name": "速速电影",
         "kw": "wd",
         "params": [
           {
@@ -626,34 +626,16 @@
         ],
         "navHtml": {
           "name": [
-            "动作电影",
-            "喜剧电影",
-            "剧情电影",
-            "爱情电影",
-            "恐怖电影",
-            "科幻电影",
-            "战争电影",
-            "动画电影",
-            "国产剧",
-            "韩剧",
-            "美剧",
-            "日剧",
-            "动漫"
+            "电影",
+            "连续剧",
+            "动漫",
+            "综艺"
           ],
           "cate": [
-            "9",
-            "10",
-            "11",
-            "12",
-            "13",
-            "14",
-            "15",
-            "16",
-            "1",
-            "2",
-            "3",
-            "7",
-            "18"
+            "dianying",
+            "lianxuju",
+            "dongman",
+            "zongyi"
           ],
           "page": "1"
         },
@@ -1583,7 +1565,7 @@
       "webUrl": "https://v.qq.com/",
       "webOpen": true,
       "click": true
-    },
+    },   
     {
       "name": "百度",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
@@ -1591,7 +1573,7 @@
       "webUrl": "https://www.baidu.com/",
       "webOpen": true,
       "click": true
-    },
+    },       
     {
       "name": "企鹅电竞一起看",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
