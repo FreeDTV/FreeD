@@ -614,7 +614,7 @@
       "click": true,
       "webPlus": {
         "search_url": "http://www.susudm.com/search.php?searchword={kw}",
-        "nav_url": "http://www.susudm.com/list/navCate-navPage.html",
+        "nav_url": "http://www.susudm.com/navCate/navPage/",
         "cate_url": "http://www.ameiju.net/vodshow/cateNav-cateArea--cateCate--catePage--cateYear.html",
         "web_name": "速速电影",
         "kw": "wd",
@@ -632,9 +632,9 @@
             "综艺"
           ],
           "cate": [
-            "dianying",
-            "lianxuju",
-            "dongman",
+            "mov",
+            "tv",
+            "acg",
             "zongyi"
           ],
           "page": "1"
