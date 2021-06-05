@@ -654,10 +654,10 @@
     {
       "name": "91美剧(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "?ad=,nnsbbd.com",
+      "ads": "weizhenwx,728_93,728_92,320_270,nnsbbd,ad=single,.gif",
       "webUrl": "https://91mjw.com/",
       "webOpen": true,
-      "click": false
+      "click": true
     },
     {
       "name": "大师兄(Web)",
@@ -670,7 +670,7 @@
     {
       "name": "1090(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
+      "ads": "weizhenwx,5588196_1622486217",
       "webUrl": "http://1090ys2.com/",
       "webOpen": true,
       "click": true
@@ -694,7 +694,7 @@
     {
       "name": "哆咪动漫(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
+      "ads": "weizhenwx,5588196_1622486217",
       "webUrl": "http://www.dmdm2020.com/",
       "webOpen": true,
       "click": true
@@ -702,7 +702,7 @@
     {
       "name": "真不卡(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
+      "ads": "weizhenwx,5588196_1622486217",
       "webUrl": "https://bukaivip.com/",
       "webOpen": true,
       "click": true
@@ -718,7 +718,7 @@
     {
       "name": "TV云播(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
+      "ads": "onenews",
       "webUrl": "http://www.tvyb02.com/",
       "webOpen": true,
       "click": true
