@@ -74,31 +74,31 @@
     },
     {
       "name": "复仇者联盟2奥创纪元",
-      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟2奥创纪元.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟2.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/05/71a517e2de299dbd537a76357f1be01c-270x380.jpg",
       "parse": true
     },
     {
       "name": "复仇者联盟3无限战争",
-      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟3无限战争.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟3.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/05/29fe5fdbfaaa8b342659829294a3812e-270x380.jpg",
       "parse": true
     },
     {
       "name": "雷神",
-      "url": "https://api.subaibai.com/m3/国外电影/雷神.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/雷神1.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/04/6fd4aeb46a80e09900c42fc91dc842fe-270x380.jpg",
       "parse": true
     },
     {
       "name": "雷神2黑暗世界",
-      "url": "https://api.subaibai.com/m3/国外电影/雷神2黑暗世界.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/雷神2.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/04/776254b1c2e6a9325a7b4fca5d6bdf7e-270x380.jpg",
       "parse": true
     },
     {
       "name": "雷神3诸神黄昏",
-      "url": "https://api.subaibai.com/m3/国外电影/雷神3诸神黄昏.m3u8",
+      "url": "https://api.subaibai.com/m3/国外电影/雷神3.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2020/04/dbed452bacfe36362d2a3b35faa89366-270x380.jpg",
       "parse": true
     },
@@ -127,14 +127,14 @@
       "parse": true
     },
     {
-      "name": "复仇者联盟",
-      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟.m3u8",
+      "name": "复仇者联盟1",
+      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟1.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2021/04/a6fdb68aa3192c557146578cdfd03050-270x380.jpg",
       "parse": true
     },
     {
-      "name": "复仇者联盟4终局之战",
-      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟4终局之战.m3u8",
+      "name": "复仇者联盟4",
+      "url": "https://api.subaibai.com/m3/国外电影/复仇者联盟4.m3u8",
       "pic": "https://liaoyantai.cn/wp-content/uploads/2021/04/01a8250f8ccccb907a51a288d541a7dd-270x380.jpg",
       "parse": true
     }
