@@ -1,6 +1,47 @@
 {
   "data": [
     {
+      "name": "漫威系列",
+      "pic": "https://img1.doubanio.com/view/photo/l/public/p1679995879.webp",
+      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E6%BC%AB%E5%A8%81%E7%B3%BB%E5%88%97.json",
+      "type": "gitJson",
+      "subTitle": "漫威系列电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "速度与激情系列",
+      "pic": "https://img1.doubanio.com/view/photo/l/public/p2564987097.webp",
+      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E9%80%9F%E5%BA%A6%E4%B8%8E%E6%BF%80%E6%83%85%E7%B3%BB%E5%88%97.json",
+      "type": "gitJson",
+      "subTitle": "速度与激情系列电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "直播",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "(新增)稳定轮播*荐*",
       "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
       "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.txt",
