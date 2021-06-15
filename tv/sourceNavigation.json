@@ -187,7 +187,7 @@
       "webOpen": true,
       "keyDownPlay": true,
       "keyUpPlay": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "PC",
       "ads": "",
       "decoder": 0,
       "webPlus": {}
@@ -201,7 +201,7 @@
       "click": true,
       "autoNext": false,
       "webOpen": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "userAgent": "PC",
       "ads": "",
       "decoder": 0,
       "webPlus": {}
