@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "name": "权游全系列",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2553910106.webp",
+      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/%E6%9D%83%E5%8A%9B%E7%9A%84%E6%B8%B8%E6%88%8F%E7%B3%BB%E5%88%97.txt",
+      "type": "txt",
+      "subTitle": "漫威系列电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "漫威系列",
       "pic": "https://img1.doubanio.com/view/photo/l/public/p1679995879.webp",
       "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD/tv/%E6%BC%AB%E5%A8%81%E7%B3%BB%E5%88%97.json",
