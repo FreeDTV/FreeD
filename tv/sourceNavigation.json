@@ -1,6 +1,21 @@
 {
   "data": [
     {
+      "name": "动作片推荐2021.07.23更",
+      "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
+      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/动作片.txt",
+      "type": "txt",
+      "subTitle": "动作片推荐",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "海贼王1-200",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
       "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/%E6%B5%B7%E8%B4%BC%E7%8E%8B1-200.txt",
