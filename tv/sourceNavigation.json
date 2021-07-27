@@ -1,6 +1,22 @@
 {
   "data": [
     {
+      "name": "(新增)稳定轮播*荐*",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
       "name": "动作片推荐2021.07.23更",
       "pic": "https://img9.doubanio.com/view/photo/l/public/p2621315475.webp",
       "url": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/大片推荐.txt",
@@ -144,22 +160,6 @@
       "type": "m3u",
       "subTitle": "经典动画电影整理中",
       "click": true,
-      "autoNext": true,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },
-    {
-      "name": "(新增)稳定轮播*荐*",
-      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
-      "url": "https://gitee.com/freedTV/freed/raw/master/tv/douyu.txt",
-      "type": "txt",
-      "subTitle": "经典动画电影整理中",
-      "click": false,
       "autoNext": true,
       "webOpen": false,
       "keyDownPlay": true,
