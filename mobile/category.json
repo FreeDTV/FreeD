@@ -1,0 +1,239 @@
+{
+  "data": [
+    {
+      "title": "热门",
+      "list": [
+        {
+          "name": "美团红包",
+          "pic": "https://s3plus.meituan.net/v1/mss_e2821d7f0cfe4ac1bf9202ecf9590e67/cdn-prod/file:9096d347/d1811b03e6c76231a4d593fad09cc8d6.png",
+          "url": "",
+          "type": "api://meituanwaimai"
+        },
+        {
+          "name": "饿了么红包",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081206_73798",
+          "url": "1571715733668",
+          "type": "api://taobaohuodongid"
+        },
+        {
+          "name": "低端影视",
+          "pic": "https://ddrk.me/favicon.ico",
+          "url": "https://ddrk.me&&&https://ddrk.me/mtp/0712_s.jpg,https://ddrk.me/mtp/0712_h.jpg",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "素白白",
+          "pic": "https://subaibai.vip/images/tx2.png",
+          "url": "https://www.subaibai.com/&&&id=6933",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "奈非高清",
+          "pic": "https://p.pstatp.com/origin/1377300028241efafea04",
+          "url": "https://nfxhd.com/&&&ad,https://nfxhd.com/pic/p.gif",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "独播库",
+          "pic": "https://e.duboku.fun/template/mytheme/statics/img/logo_min.png",
+          "url": "https://e.duboku.fun/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "爱迪",
+          "pic": "https://aidi.tv/template/movie/asset/img/logo_white.png",
+          "url": "https://aidi.tv/&&&adsbygoogle,googleapis,ads,google",
+          "type": "app://customWeb"
+        }
+      ]
+    },
+    {
+      "title": "购物",
+      "list": [
+        {
+          "name": "京东",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081109_786319",
+          "url": "https://coupon.aikanll.com/?tmp=jd_hotitem&code=8uL0kH&f=web&demo_type=15",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "拼多多",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081139_686666",
+          "url": "https://coupon.aikanll.com/?tmp=pdd_hotitem&code=4IEcGG&f=web&demo_type=16",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "唯品会",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1625453776_572892",
+          "url": "https://coupon.aikanll.com/?tmp=vip_brand&code=2GBPI3&f=web&demo_type=37",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "线报",
+          "pic": "https://img.alicdn.com/imgextra/i2/2053469401/O1CN01lNrpEo2JJi21EW0jF_!!2053469401.png",
+          "url": "https://coupon.aikanll.com/?tmp=rt_xb&code=XgfNAG&f=web&demo_type=31",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "逛超市",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081206_73798",
+          "url": "20150318020004284",
+          "type": "api://taobaohuodongid"
+        },
+        {
+          "name": "福利清单",
+          "pic": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Fkfct12JJi0dfsEXn_!!2053469401.png",
+          "url": "https://coupon.aikanll.com/?tmp=gather_new&code=E0hop5&f=web&demo_type=32",
+          "type": "app://shopWeb"
+        },
+        {
+          "name": "天猫超市",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081348_392547",
+          "url": "https://coupon.aikanll.com/?tmp=maochao&code=cstwnx&f=web&demo_type=9",
+          "type": "app://shopWeb"
+        }
+      ]
+    },
+    {
+      "title": "影视",
+      "list": [
+        {
+          "name": "爱奇艺",
+          "pic": "https://m.iqiyi.com/favicon.ico",
+          "url": "https://m.iqiyi.com/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "腾讯视频",
+          "pic": "https://m.v.qq.com/favicon.ico",
+          "url": "https://m.v.qq.com/index.html",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "优酷视频",
+          "pic": "https://www.youku.com/favicon.ico",
+          "url": "https://www.youku.com/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "芒果TV",
+          "pic": "https://m.mgtv.com/favicon.ico",
+          "url": "https://m.mgtv.com/channel/home",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "哔哩哔哩",
+          "pic": "https://m.bilibili.com/favicon.ico",
+          "url": "https://m.bilibili.com/",
+          "type": "app://x5WebParse"
+        },
+        {
+          "name": "m1905",
+          "pic": "https://m.1905.com/favicon.ico",
+          "url": "https://m.1905.com/",
+          "type": "app://x5WebParse"
+        }
+      ]
+    },
+    {
+      "title": "直播",
+      "list": [
+        {
+          "name": "央视",
+          "pic": "https://tv.cctv.com/favicon.ico",
+          "url": "https://tv.cctv.com/live/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "企鹅体育",
+          "pic": "https://live.qq.com/favicon.ico",
+          "url": "https://live.qq.com/directory/all",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "虎牙",
+          "pic": "https://www.huya.com/favicon.ico",
+          "url": "https://www.huya.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "斗鱼",
+          "pic": "https://www.douyu.com/favicon.ico",
+          "url": "https://www.douyu.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "YY",
+          "pic": "https://www.yy.com/favicon.ico",
+          "url": "https://www.yy.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "哔哩哔哩",
+          "pic": "https://live.bilibili.com/favicon.ico",
+          "url": "https://live.bilibili.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "网易CC",
+          "pic": "https://cc.163.com/favicon.ico",
+          "url": "https://cc.163.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "企鹅电竞",
+          "pic": "https://egame.qq.com/favicon.ico",
+          "url": "https://egame.qq.com/",
+          "type": "app://customWeb"
+        }
+      ]
+    },
+    {
+      "title": "搜索",
+      "list": [
+        {
+          "name": "百度",
+          "pic": "https://www.baidu.com/favicon.ico",
+          "url": "https://www.baidu.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "谷歌",
+          "pic": "https://www.google.com/favicon.ico",
+          "url": "https://www.google.com",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "搜狗",
+          "pic": "https://www.sogou.com/favicon.ico",
+          "url": "https://www.sogou.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "必应",
+          "pic": "https://cn.bing.com/favicon.ico",
+          "url": "https://cn.bing.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "magi",
+          "pic": "https://magi.com/favicon.ico",
+          "url": "https://magi.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "秘迹",
+          "pic": "https://mijisou.com/favicon.ico",
+          "url": "https://mijisou.com/",
+          "type": "app://customWeb"
+        },
+        {
+          "name": "yandex",
+          "pic": "https://yandex.com/favicon.ico",
+          "url": "https://yandex.com/",
+          "type": "app://customWeb"
+        }
+      ]
+    }
+  ]
+}
