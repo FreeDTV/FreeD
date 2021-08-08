@@ -10,19 +10,19 @@
           "url": "https://gitee.com/shuncaigao/sourceShare/raw/master/update.html"
         },
         {
-          "name": "小说阅读",
+          "name": "阅读",
           "type": "app://book",
           "pic": "",
           "url": "http://www.baidu.com"
         },
         {
-          "name": "口令查券",
+          "name": "口令",
           "type": "app://chaquan",
           "pic": "",
           "url": "http://www.baidu.com"
         },
         {
-          "name": "自定义网址",
+          "name": "哈哈",
           "type": "app://custom",
           "pic": "",
           "url": "http://www.baidu.com"
