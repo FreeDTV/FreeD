@@ -276,7 +276,7 @@
       "click": true,
       "webPlus": {
         "search_url": "https://www.4kyu.cc/vodsearch/-------------.html?wd={kw}&submit=",
-        "nav_url": "https://www.4kyu.cc/vodshow/navCate--------navPage---.html",
+        "nav_url": "https://www.4kyu.cc/vodtype/navCate-navPage.html",
         "navHtml": {
           "name": [
             "全部",
