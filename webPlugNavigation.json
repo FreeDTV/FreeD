@@ -7,7 +7,7 @@
       "ads": "",
       "webUrl": "http://www.9rmb.com",
       "webOpen": false,
-      "click": true,
+      "click": false,
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
         "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
