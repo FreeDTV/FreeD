@@ -29,6 +29,7 @@ FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任
 
 ##### category.json     手机版金刚区接口
 ##### recommend.json     手机版首页推荐接口
+##### videoNavigation.json     手机版超级导航接口
 
 
 #### 参与贡献
