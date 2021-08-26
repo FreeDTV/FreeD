@@ -93,7 +93,7 @@
       "ads": "",
       "webUrl": "https://nfxhd.com/",
       "webOpen": false,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://nfxhd.com/vodsearch/-------------/?wd={kw}&submit=",
         "nav_url": "https://nfxhd.com/vodtype/navCate-navPage/",
@@ -260,8 +260,6 @@
             "urlAttr": "href",
             "urlCss": "a",
             "urlIndex": 0
-          },
-          "video": {
           }
         }
       }
@@ -369,7 +367,7 @@
       "ads": "",
       "webUrl": "https://www.9ehao.com/",
       "webOpen": false,
-      "click": false,
+      "click": true,
       "webPlus": {
         "search_url": "https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
         "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
