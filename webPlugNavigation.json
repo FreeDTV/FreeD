@@ -543,6 +543,14 @@
       }
     },
     {
+      "name": "西瓜视频(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
+      "ads": "",
+      "webUrl": "https://www.ixigua.com/channel/dianying/",
+      "webOpen": true,
+      "click": true
+    },
+    {
       "name": "长资源(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
@@ -584,14 +592,6 @@
       "type": "webPlug",
       "ads": "ad,https://nfxhd.com/pic/p.gif",
       "webUrl": "http://www.zzzfun.com/",
-      "webOpen": true,
-      "click": true
-    },
-    {
-      "name": "嘀哩影视(Web)",
-      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-      "ads": "",
-      "webUrl": "http://diliktv.com/",
       "webOpen": true,
       "click": true
     },
