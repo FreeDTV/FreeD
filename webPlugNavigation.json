@@ -569,7 +569,7 @@
       "click": true
     },
     {
-      "name": "低端影视(Web)",
+      "name": "素白白(Web)",
       "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
       "type": "webPlug",
       "ads": "id=6933",
@@ -583,6 +583,15 @@
       "type": "webPlug",
       "ads": "ad,https://nfxhd.com/pic/p.gif",
       "webUrl": "https://nfxhd.com/",
+      "webOpen": true,
+      "click": true
+    },
+    {
+      "name": "NO视频(Web)",
+      "pic": "https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+      "type": "webPlug",
+      "ads": "ad,https://nfxhd.com/pic/p.gif",
+      "webUrl": "https://www.novipnoad.com/",
       "webOpen": true,
       "click": true
     },
