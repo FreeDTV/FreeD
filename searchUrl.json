@@ -190,14 +190,6 @@
       "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
       "click": true,
       "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "思古",
-      "url": "https://www.siguyy.com/api.php/provide/vod/at/xml/",
-      "cate": "电影,1&&电视剧,1&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
     }
   ]
 }
