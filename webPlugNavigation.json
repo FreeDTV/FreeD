@@ -11,6 +11,7 @@
       "webPlus": {
         "search_url": "http://www.9rmb.com/search?wd={kw}",
         "nav_url": "http://www.9rmb.com/type/navCate/navPage.html",
+        "web_name": "94神马",
         "navHtml": {
           "name": [
             "电影",
@@ -97,6 +98,7 @@
       "webPlus": {
         "search_url": "https://nfxhd.com/vodsearch/-------------/?wd={kw}&submit=",
         "nav_url": "https://nfxhd.com/vodtype/navCate-navPage/",
+        "web_name": "NFXHD",
         "navHtml": {
           "name": [
             "电影",
@@ -181,6 +183,7 @@
       "webPlus": {
         "search_url": "https://aidi.tv/vsearch/-------------.html?wd={kw}",
         "nav_url": "https://aidi.tv/show/navCate--------navPage---.html",
+        "web_name": "爱迪",
         "navHtml": {
           "name": [
             "电影",
@@ -275,6 +278,7 @@
       "webPlus": {
         "search_url": "https://www.4kyu.cc/vodsearch/-------------.html?wd={kw}&submit=",
         "nav_url": "https://www.4kyu.cc/vodtype/navCate-navPage.html",
+        "web_name": "一只鱼",
         "navHtml": {
           "name": [
             "全部",
@@ -371,6 +375,7 @@
       "webPlus": {
         "search_url": "https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
         "nav_url": "https://www.9ehao.com/vodshow/navCate/page/navPage",
+        "web_name": "9亿看看",
         "navHtml": {
           "name": [
             "国语配音",
@@ -459,6 +464,7 @@
       "webPlus": {
         "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
         "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
+        "web_name": "555电影",
         "navHtml": {
           "name": [
             "电影",
