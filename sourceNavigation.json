@@ -1,0 +1,52 @@
+{
+  "data": [
+    {
+      "name": "(新增)稳定轮播*荐*",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
+      "type": "txt",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "(新增)稳定直播*荐*",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "webUrl": "https://gitee.com/be_fine/iptv/raw/master/zho_check.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": false,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    },
+    {
+      "name": "直播",
+      "pic": "https://tva3.sinaimg.cn/large/0072Vf1pgy1foxkf2ckn5j31hc0u0nkl.jpg",
+      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "type": "m3u",
+      "subTitle": "经典动画电影整理中",
+      "click": true,
+      "autoNext": true,
+      "webOpen": false,
+      "keyDownPlay": true,
+      "keyUpPlay": true,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 8.1.0; zh-cn; BLA-AL00 Build/HUAWEIBLA-AL00) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/57.0.2987.132 MQQBrowser/8.9 Mobile Safari/537.36",
+      "ads": "",
+      "decoder": 0,
+      "webPlus": {}
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": 19,
+      "name": "自定义1",
+      "ad": "no",
+      "url": "https://api.leduotv.com/wp-api/ifr.php?vid="
+    },
+    {
+      "id": 19,
+      "name": "自定义2",
+      "ad": "no",
+      "url": "https://sb.5gseo.net/?url="
+    }
+  ]
+}
