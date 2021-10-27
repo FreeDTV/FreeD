@@ -675,6 +675,17 @@
       "webUrl": "https://egame.qq.com/livelist?layoutid=2000000110",
       "webOpen": true,
       "click": true
+    },
+    {
+      "name": "鸭奈非(Web)",
+      "pic": "https://img.ciyuanji.com/files/2021/07/22/2ad6564f9aee4ea085dc70d5a3b7b31c.png",
+      "keyDownPlay": false,
+      "keyUpPlay": false,
+      "userAgent": "PC",
+      "ads": "",
+      "webUrl": "https://yanetflix.com/",
+      "webOpen": true,
+      "click": true
     }
   ]
 }
