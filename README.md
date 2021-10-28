@@ -24,7 +24,7 @@ FreeDTV 免费无广告，也无任何收费会员制倾向，请不要相信任
 >这是因为Jsdelivr 缓存如需实时刷新缓存即可如：
 > 
 >搜索接口：
->https://cdn.jsdelivr.net/gh/FreeDTV/tanzhiquan/searchUrl.json
+>https://cdn.jsdelivr.net/gh/tanzhiquan/FreeD/searchUrl.json
 >
 >刷新接口：
 >https://purge.jsdelivr.net/gh/tanzhiquan/FreeD/searchUrl.json
