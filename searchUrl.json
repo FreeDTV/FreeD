@@ -89,25 +89,9 @@
     },
     {
       "id": 1,
-      "name": "瑞瑞",
-      "url": "http://www.ruiuri.com/api.php/provide/vod/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,21",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
       "name": "橘猫",
       "url": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,21",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "五一",
-      "url": "http://dy.51isu.com:11801/api.php/provide/vod/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
       "click": true,
       "wePlus": {}
     },
@@ -124,22 +108,6 @@
       "name": "追剧",
       "url": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
       "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "玉米",
-      "url": "https://yumi.video/api.php/provide/vod/at/xml/",
-      "cate": "4K,32&&电影,29&&电视剧,30&&综艺,34&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "TVB云播",
-      "url": "http://www.tvyb02.com/api.php/provide/vod/at/xml",
-      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,21",
       "click": true,
       "wePlus": {}
     },
@@ -164,30 +132,6 @@
       "name": "88资源",
       "url": "http://www.88zy.live/inc/m3u8.php",
       "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&港台剧,13&&日韩剧,14&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "比心",
-      "url": "http://bxin.tv/api.php/provide/vod/at/xml/",
-      "cate": "蓝光综艺,3&&综艺,3&&动漫,4",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "豆瓣",
-      "url": "http://api.dbyunzy.com/api.php/provide/vod/at/xml/",
-      "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
-      "click": true,
-      "wePlus": {}
-    },
-    {
-      "id": 1,
-      "name": "38资源",
-      "url": "http://ok.888hyk.com/api.php/provide/vod/at/xml",
-      "cate": "蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40",
       "click": true,
       "wePlus": {}
     }
