@@ -37,7 +37,7 @@
             "listItemAttr": "href",
             "listItemCss": "a",
             "listItemIndex": 0,
-            "mainCss": "div.panel.panel-default.resource-list",
+            "mainCss": "div.row",
             "mainIndex": 0
           },
           "nav": {
