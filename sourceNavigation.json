@@ -35,7 +35,7 @@
     {
       "name": "m3u格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/09/15/75978b65-3340-4f8a-b146-8a5049febbd0?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio.m3u",
+      "webUrl": "https://cdn.jsdelivr.net/gh/goolguy007/radioer/TVradio",
       "type": "m3u",
       "subTitle": "",
       "click": true,
