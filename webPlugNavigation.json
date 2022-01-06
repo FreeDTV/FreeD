@@ -89,209 +89,19 @@
             }
         },
         {
-            "name":"爱迪(规则)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "type":"webPlug",
-            "ads":"",
-            "webUrl":"https://aidi.tv",
-            "webOpen":false,
-            "click":true,
-            "webPlus":{
-                "search_url":"https://aidi.tv/vsearch/-------------.html?wd={kw}",
-                "nav_url":"https://aidi.tv/show/navCate--------navPage---.html",
-                "web_name":"爱迪",
-                "navHtml":{
-                    "name":[
-                        "电影",
-                        "连续剧",
-                        "综艺",
-                        "动漫"
-                    ],
-                    "cate":[
-                        "dianying",
-                        "lianxuju",
-                        "zongyi",
-                        "dongman"
-                    ],
-                    "page":"1"
-                },
-                "cateHtml":{
-                    "isCate":false,
-                    "isYear":false,
-                    "isArea":false,
-                    "cate":"",
-                    "year":"",
-                    "area":""
-                },
-                "html":{
-                    "episodes":{
-                        "hasUrlPrefix":true,
-                        "isListItemAttr":true,
-                        "listCss":"li",
-                        "isMultiList":false,
-                        "listCssMulti":"",
-                        "listItemAttr":"href",
-                        "listItemCss":"a",
-                        "listItemIndex":0,
-                        "mainCss":"ul.content_playlist.clearfix",
-                        "mainIndex":0
-                    },
-                    "nav":{
-                        "descAttr":"",
-                        "descCss":"span.pic_text.text_right",
-                        "descIndex":0,
-                        "hasUrlPrefix":false,
-                        "imgAttr":"data-original",
-                        "imgCss":"a",
-                        "imgIndex":0,
-                        "isDescAttr":false,
-                        "isImgAttr":true,
-                        "isNameAttr":false,
-                        "isUrlAttr":true,
-                        "mainCss":"ul.vodlist.vodlist_wi",
-                        "mainListIndex":0,
-                        "nameAttr":"title",
-                        "nameCss":"a",
-                        "nameIndex":1,
-                        "searchListCss":"li",
-                        "urlAttr":"href",
-                        "urlCss":"a",
-                        "urlIndex":0
-                    },
-                    "search":{
-                        "descAttr":"",
-                        "descCss":"span.pic_text.text_right",
-                        "descIndex":0,
-                        "hasUrlPrefix":false,
-                        "imgAttr":"data-original",
-                        "imgCss":"a",
-                        "imgIndex":0,
-                        "isDescAttr":false,
-                        "isImgAttr":true,
-                        "isNameAttr":true,
-                        "isUrlAttr":true,
-                        "mainCss":"ul.vodlist.clearfix",
-                        "mainListIndex":0,
-                        "nameAttr":"title",
-                        "nameCss":"a",
-                        "nameIndex":0,
-                        "searchListCss":"li",
-                        "urlAttr":"href",
-                        "urlCss":"a",
-                        "urlIndex":0
-                    }
-                }
-            }
-        },
-        {
-            "name":"一只鱼(规则)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
-            "type":"webPlug",
-            "ads":"",
-            "webUrl":"https://www.4kyu.cc",
-            "webOpen":false,
-            "click":true,
-            "webPlus":{
-                "search_url":"https://www.4kyu.cc/vodsearch/-------------.html?wd={kw}&submit=",
-                "nav_url":"https://www.4kyu.cc/vodtype/navCate-navPage.html",
-                "web_name":"一只鱼",
-                "navHtml":{
-                    "name":[
-                        "全部",
-                        "蓝光电影",
-                        "蓝光纪录片",
-                        "蓝光影视",
-                        "蓝光港台",
-                        "蓝光英美",
-                        "蓝光日韩",
-                        "蓝光动漫",
-                        "蓝光综艺"
-                    ],
-                    "cate":[
-                        "23",
-                        "24",
-                        "31",
-                        "25",
-                        "79",
-                        "81",
-                        "80",
-                        "26",
-                        "33"
-                    ],
-                    "page":"1"
-                },
-                "html":{
-                    "episodes":{
-                        "hasUrlPrefix":false,
-                        "isListItemAttr":true,
-                        "listCss":"li",
-                        "isMultiList":false,
-                        "listCssMulti":"",
-                        "listItemAttr":"href",
-                        "listItemCss":"a",
-                        "listItemIndex":0,
-                        "mainCss":"ul.myui-content__list.sort-list.clearfix",
-                        "mainIndex":0
-                    },
-                    "nav":{
-                        "descAttr":"",
-                        "descCss":"span.pic-text.text-right",
-                        "descIndex":0,
-                        "hasUrlPrefix":false,
-                        "imgAttr":"data-original",
-                        "imgCss":"a",
-                        "imgIndex":0,
-                        "isDescAttr":false,
-                        "isImgAttr":true,
-                        "isNameAttr":false,
-                        "isUrlAttr":true,
-                        "mainCss":"ul.myui-vodlist.clearfix",
-                        "mainListIndex":0,
-                        "nameAttr":"title",
-                        "nameCss":"a",
-                        "nameIndex":1,
-                        "searchListCss":"li",
-                        "urlAttr":"href",
-                        "urlCss":"a",
-                        "urlIndex":0
-                    },
-                    "search":{
-                        "descAttr":"",
-                        "descCss":"span.pic-text.text-right",
-                        "descIndex":0,
-                        "hasUrlPrefix":false,
-                        "imgAttr":"data-original",
-                        "imgCss":"a",
-                        "imgIndex":0,
-                        "isDescAttr":false,
-                        "isImgAttr":true,
-                        "isNameAttr":true,
-                        "isUrlAttr":true,
-                        "mainCss":"ul.myui-vodlist__media.clearfix",
-                        "mainListIndex":0,
-                        "nameAttr":"title",
-                        "nameCss":"a",
-                        "nameIndex":0,
-                        "searchListCss":"li",
-                        "urlAttr":"href",
-                        "urlCss":"a",
-                        "urlIndex":0
-                    }
-                }
-            }
-        },
-        {
             "name":"9亿看看(规则)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+            "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/c52dabca-ada7-479a-8e32-fd32efe1d708?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
             "ads":"",
             "webUrl":"https://www.9ehao.com/",
             "webOpen":false,
+            "search":false,
             "click":true,
             "webPlus":{
                 "search_url":"https://www.9ehao.com/vod/search.html?wd={kw}&submit=",
                 "nav_url":"https://www.9ehao.com/vodshow/navCate/page/navPage",
                 "web_name":"9亿看看",
+                "search":false,
                 "navHtml":{
                     "name":[
                         "国语配音",
@@ -313,13 +123,13 @@
                     "episodes":{
                         "hasUrlPrefix":false,
                         "isListItemAttr":true,
-                        "listCss":"ul > li",
-                        "isMultiList":false,
-                        "listCssMulti":"",
+                        "listCss":"div.tab-pane.fade.in.clearfix",
+                        "isMultiList":true,
+                        "listCssMulti":"ul > li",
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"div.tab-pane.fade.in.clearfix",
+                        "mainCss":"div.tab-content.myui-panel_bd",
                         "mainIndex":0
                     },
                     "nav":{
@@ -370,56 +180,57 @@
             }
         },
         {
-            "name":"555电影(规则)",
-            "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p2650.jpg",
+            "name":"爱迪(规则)",
+            "pic":"https://imgpub.chuangkit.com/materials/2021/12/18/702e9f4a-017d-4410-97d3-a3bddd108bb9?x-oss-process=image/resize,w_200/format,webp",
             "type":"webPlug",
             "ads":"",
-            "webUrl":"https://www.555dy6.com/",
+            "webUrl":"https://aidi.tv",
             "webOpen":false,
             "click":true,
             "webPlus":{
-                "search_url":"https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
-                "nav_url":"https://www.555dy6.com/vodshow/navCate--------navPage---.html",
-                "web_name":"555电影",
+                "search_url":"https://aidi.tv/vsearch/-------------.html?wd={kw}",
+                "nav_url":"https://aidi.tv/show/navCate--------navPage---.html",
+                "web_name":"爱迪",
+                "search":true,
                 "navHtml":{
                     "name":[
                         "电影",
-                        "每日推荐",
-                        "电视剧",
-                        "热剧推荐",
-                        "动漫",
-                        "热漫推荐",
+                        "连续剧",
                         "综艺",
-                        "热门综艺"
+                        "动漫"
                     ],
                     "cate":[
-                        "1",
-                        "79",
-                        "2",
-                        "88",
-                        "4",
-                        "94",
-                        "3",
-                        "90"
+                        "dianying",
+                        "lianxuju",
+                        "zongyi",
+                        "dongman"
                     ],
                     "page":"1"
                 },
+                "cateHtml":{
+                    "isCate":false,
+                    "isYear":false,
+                    "isArea":false,
+                    "cate":"",
+                    "year":"",
+                    "area":""
+                },
                 "html":{
                     "episodes":{
-                        "hasUrlPrefix":false,
+                        "hasUrlPrefix":true,
                         "isListItemAttr":true,
-                        "listCss":"li",
-                        "isMultiList":false,
-                        "listCssMulti":"",
+                        "listCss":"div.playlist_full",
+                        "isMultiList":true,
+                        "listCssMulti":"ul > li",
                         "listItemAttr":"href",
                         "listItemCss":"a",
                         "listItemIndex":0,
-                        "mainCss":"ul.myui-content__list.playlist.clearfix",
+                        "mainCss":"div.play_source",
                         "mainIndex":0
                     },
                     "nav":{
                         "descAttr":"",
-                        "descCss":"span.pic-text.text-right",
+                        "descCss":"span.pic_text.text_right",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
@@ -427,13 +238,13 @@
                         "imgIndex":0,
                         "isDescAttr":false,
                         "isImgAttr":true,
-                        "isNameAttr":true,
+                        "isNameAttr":false,
                         "isUrlAttr":true,
-                        "mainCss":"ul.myui-vodlist.clearfix",
+                        "mainCss":"ul.vodlist.vodlist_wi",
                         "mainListIndex":0,
                         "nameAttr":"title",
                         "nameCss":"a",
-                        "nameIndex":0,
+                        "nameIndex":1,
                         "searchListCss":"li",
                         "urlAttr":"href",
                         "urlCss":"a",
@@ -441,7 +252,7 @@
                     },
                     "search":{
                         "descAttr":"",
-                        "descCss":"span.hl-lc-1.remarks",
+                        "descCss":"span.pic_text.text_right",
                         "descIndex":0,
                         "hasUrlPrefix":false,
                         "imgAttr":"data-original",
@@ -451,7 +262,7 @@
                         "isImgAttr":true,
                         "isNameAttr":true,
                         "isUrlAttr":true,
-                        "mainCss":"ul.hl-one-list",
+                        "mainCss":"ul.vodlist.clearfix",
                         "mainListIndex":0,
                         "nameAttr":"title",
                         "nameCss":"a",
@@ -464,6 +275,270 @@
                 }
             }
         },
+		{
+      "name": "大师兄影视(规则)",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/ab32ab73-4475-4be1-ab6e-4b3ff641f7fb?x-oss-process=image/resize,w_200/format,webp",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.555dy6.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://www.555dy6.com/index.php/vod/search.html?wd={kw}",
+        "nav_url": "https://www.555dy6.com/vodshow/navCate--------navPage---.html",
+        "web_name": "大师兄影视",
+		"search":false,
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "div.tab-pane.fade.in.clearfix",
+            "isMultiList": true,
+            "listCssMulti": "ul > li",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.tab-content.myui-panel_bd",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.hl-one-list",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+	{
+      "name": "555电影(规则)",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/12/02/72ba3149-cf88-4756-ac34-f3d51844118c?x-oss-process=image/resize,w_200/format,webp",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://dsxys.com/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "https://dsxys.com/sb/ke7nhZe3c1{kw}-.html",
+        "nav_url": "https://dsxys.com/type/navCate-navPage.html",
+        "web_name": "555电影",
+		"search":false,
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "div.tab-pane.fade.in.clearfix",
+            "isMultiList": true,
+            "listCssMulti": "ul > li",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.tab-content.myui-panel_bd",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.hl-one-list",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
+	{
+      "name": "天空影视(规则)",
+      "pic": "https://imgpub.chuangkit.com/materials/2021/01/05/b1472245-4a12-4c4a-bb2e-269d62d325a9?x-oss-process=image/resize,w_200/format,webp",
+      "type": "webPlug",
+      "ads": "",
+      "webUrl": "https://www.tkys.tv/",
+      "webOpen": false,
+      "click": true,
+      "webPlus": {
+        "search_url": "",
+        "nav_url": "https://www.tkys.tv/vodtype/navCate-navPage.html",
+        "web_name": "555电影",
+		"search":false,
+        "navHtml": {
+          "name": [
+            "电影",
+            "电视剧",
+            "动漫",
+            "综艺"
+          ],
+          "cate": [
+            "1",
+            "2",
+            "4",
+            "3"
+          ],
+          "page": "1"
+        },
+        "html": {
+          "episodes": {
+            "hasUrlPrefix": false,
+            "isListItemAttr": true,
+            "listCss": "div.tab-pane.fade.in.clearfix",
+            "isMultiList": true,
+            "listCssMulti": "ul > li",
+            "listItemAttr": "href",
+            "listItemCss": "a",
+            "listItemIndex": 0,
+            "mainCss": "div.tab-content.myui-panel_bd",
+            "mainIndex": 0
+          },
+          "nav": {
+            "descAttr": "",
+            "descCss": "span.pic-text.text-right",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.myui-vodlist.clearfix",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          },
+          "search": {
+            "descAttr": "",
+            "descCss": "span.hl-lc-1.remarks",
+            "descIndex": 0,
+            "hasUrlPrefix": false,
+            "imgAttr": "data-original",
+            "imgCss": "a",
+            "imgIndex": 0,
+            "isDescAttr": false,
+            "isImgAttr": true,
+            "isNameAttr": true,
+            "isUrlAttr": true,
+            "mainCss": "ul.hl-one-list",
+            "mainListIndex": 0,
+            "nameAttr": "title",
+            "nameCss": "a",
+            "nameIndex": 0,
+            "searchListCss": "li",
+            "urlAttr": "href",
+            "urlCss": "a",
+            "urlIndex": 0
+          }
+        }
+      }
+    },
         {
             "name":"西瓜视频(Web)",
             "pic":"https://img3.doubanio.com/view/activity_page/raw/public/p3190.jpg",
