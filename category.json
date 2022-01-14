@@ -12,8 +12,8 @@
         {
           "name": "饿了么红包",
           "pic": "https://img.alicdn.com/imgextra/i3/913168420/O1CN012KNmnX2C4PZT5JXdH_!!913168420.png",
-          "url": "1571715733668",
-          "type": "api://taobaohuodongid"
+          "url": "https://s.click.ele.me/jEFucbu",
+          "type": "url://taobao"
         },
         {
           "name": "低端影视",
@@ -28,15 +28,15 @@
           "type": "app://customWeb"
         },
         {
-          "name": "奈非高清",
+          "name": "COCOKEMV",
           "pic": "https://img.alicdn.com/imgextra/i1/913168420/O1CN01WAXSiu2C4PZZTmHpN_!!913168420.png",
-          "url": "https://nfxhd.com/&&&ad,https://nfxhd.com/pic/p.gif",
+          "url": "https://cokemv.me/",
           "type": "app://customWeb"
         },
         {
-          "name": "独播库",
+          "name": "泡饭影视",
           "pic": "https://img.alicdn.com/imgextra/i4/913168420/O1CN01TTF6yj2C4PZSVq0eg_!!913168420.png",
-          "url": "http://tv.zdubo.com/&&&adsbygoogle,googleapis,ads,google",
+          "url": "https://www.paofans.net/&&&adsbygoogle,googleapis,ads,google",
           "type": "app://customWeb"
         },
         {
@@ -81,21 +81,9 @@
           "type": "app://shopWeb"
         },
         {
-          "name": "逛超市",
-          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081206_73798",
-          "url": "20150318020004284",
-          "type": "api://taobaohuodongid"
-        },
-        {
-          "name": "福利清单",
-          "pic": "https://img.alicdn.com/imgextra/i3/2053469401/O1CN01Fkfct12JJi0dfsEXn_!!2053469401.png",
-          "url": "https://coupon.aikanll.com/?tmp=gather_new&code=E0hop5&f=web&demo_type=32",
-          "type": "app://shopWeb"
-        },
-        {
-          "name": "天猫超市",
-          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081348_392547",
-          "url": "https://coupon.aikanll.com/?tmp=maochao&code=cstwnx&f=web&demo_type=9",
+          "name": "话费充值",
+          "pic": "https://img-haodanku-com.cdn.fudaiapp.com/0_1624081139_686666",
+          "url": "https://coupon.aikanll.com/?tmp=pdd_charge&code=sdAvFj",
           "type": "app://shopWeb"
         }
       ]
