@@ -15,12 +15,7 @@
           "pic": "",
           "url": "http://www.baidu.com"
         },
-        {
-          "name": "口令查券",
-          "type": "app://chaquan",
-          "pic": "",
-          "url": "http://www.baidu.com"
-        },
+
         {
           "name": "自定义网址",
           "type": "app://custom",
@@ -92,12 +87,7 @@
           "pic": "http://www.baidu.com/aaa.jpg",
           "url": "https://www.novipnoad.com/"
         },
-        {
-          "name": "独播库",
-          "type": "app://customWeb",
-          "pic": "http://www.baidu.com/aaa.jpg",
-          "url": "https://www.duboku.net/&&&ads"
-        },
+
         {
           "name": "奇侠高清",
           "type": "app://customWeb",
@@ -108,38 +98,9 @@
           "name": "9亿看看",
           "type": "app://customWeb",
           "pic": "http://www.baidu.com/aaa.jpg",
-          "url": "http://www.9ekk.com/&&&hlgglm,xunlei,2526game,68710266"
+          "url": "https://www.9egood.com/&&&hlgglm,xunlei,2526game,68710266"
         },
-        {
-          "name": "完美看看",
-          "type": "app://customWeb",
-          "pic": "http://www.baidu.com/aaa.jpg",
-          "url": "https://www.wanmeikk.me/&&&klmc88,lunbo,2qux23c9ziyrq,wxtr9fwyxk9c"
-        },
-        {
-          "name": "1090影视",
-          "type": "app://customWeb",
-          "pic": "http://img.ilxdh.com/navig/2019-12-27/1577425343_5406.png",
-          "url": "http://1090ys1.com/&&&loli,cathaycentury,klmc88"
-        },
-        {
-          "name": "蒙面大侠",
-          "type": "app://customWeb",
-          "pic": "https://www.mengmiandaxia.cn/favicon.ico",
-          "url": "https://www.mengmiandaxia.cn/"
-        },
-        {
-          "name": "xijingTv",
-          "type": "app://customWeb",
-          "pic": "http://img.ilxdh.com/navig/2020-04-13/1586786828_6785.png",
-          "url": "http://xijing.tv/"
-        },
-        {
-          "name": "看看屋",
-          "type": "app://customWeb",
-          "pic": "",
-          "url": "https://www.kankanwu.com/&&&jianpian"
-        },
+
         {
           "name": "AGE动漫",
           "type": "app://customWeb",
@@ -165,18 +126,6 @@
           "url": "https://www.shenma4480.com/&&&guominziben"
         },
         {
-          "name": "94神马",
-          "type": "app://customWeb",
-          "pic": "http://www.9rmb.com/favicon.ico",
-          "url": "http://www.9rmb.com/&&&syzzhd,gmuqa,efacepop"
-        },
-        {
-          "name": "8号影院",
-          "type": "app://customWeb",
-          "pic": "ht",
-          "url": "http://8hyy.cc//&&&68710266,innvitor,abie18"
-        },
-        {
           "name": "爱迪生影院",
           "type": "app://customWeb",
           "pic": "h",
@@ -188,30 +137,7 @@
           "pic": "1",
           "url": "https://bde4.com/&&&2qu92fhtx4ff,jingteinv,xhq9mt12cf5v,823262290.gif"
         },
-        {
-          "name": "宅看影院",
-          "type": "app://customWeb",
-          "pic": "1",
-          "url": "https://www.zhaikanys.com/&&&efacepop,ff01s"
-        },
-        {
-          "name": "电玩人高清",
-          "type": "app://customWeb",
-          "pic": "1",
-          "url": "http://www.ameiju.net/&&&efacepop,ff01s"
-        },
-        {
-          "name": "宅看影视",
-          "type": "app://customWeb",
-          "pic": "1",
-          "url": "https://www.zhaikanys.com//&&&efacepop,ff01s"
-        },
-        {
-          "name": "太初影院",
-          "type": "app://customWeb",
-          "pic": "http://img.ilxdh.com/navig/2020-01-03/1578061046_9191.png",
-          "url": "https://www.tcmove.com/&&&site:12443"
-        },
+
         {
           "name": "爱美剧",
           "type": "app://customWeb",
