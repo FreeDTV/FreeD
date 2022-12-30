@@ -1,177 +1,224 @@
 {
-  "data": [
-    {
-      "id": 1,
-      "name": "百度云",
-      "url": "https://m3u8.apibdzy.com/api.php/provide/vod/at/xml",
-      "cate": "动作片,21&&喜剧片,22&&爱情片,23&&科幻片,24&&恐怖片,25&&动画电影,28&&国产剧,32&&韩国剧,59&&美国剧,35&&日本剧,34&&大陆综艺,37&&日韩综艺,38&&国产动漫,42&&日韩动漫,43&&欧美动漫,44",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-	  
-    },
+    "data":[
+        {
+            "id":1,
+            "name":"百度云(切片)",
+            "url":"https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml",
+            "cate":"国产剧,13&&韩国剧,15&&美国剧,22&&日本剧,16&&大陆综艺,25&&日韩综艺,26&&国产动漫,29&&日本动漫,30",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"酷点(切片)",
+            "url":"https://kudian10.com/api.php/provide/vod/from/kdm3u8/at/xml/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&大陆综艺,30&&台湾综艺,32&&日韩综艺,31&&欧美综艺,33&&国产动漫,34&&日韩动漫,35",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"FOX(切片)",
+            "url":"https://api.foxzyapi.com/api.php/provide/vod/from/foxm3u8/at/xml/",
+            "cate":"动作片,4&&喜剧片,5&&爱情片,6&&科幻片,7&&恐怖片,8&&剧情片,9&&战争片,10&&国产剧,33&&港台剧,32&&日韩剧,34&&欧美剧,36&&大陆综艺,41&&台湾综艺,42&&日韩综艺,40&&欧美综艺,43&&国产动漫,45&&日本动漫,46",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"量子(切片)",
+            "url":"https://cj.lziapi.com/api.php/provide/vod/from/lzm3u8/at/xml/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&大陆综艺,25&&台湾综艺,26&&日韩综艺,27&&欧美综艺,28&&国产动漫,29&&日韩动漫,30",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"八戒(切片)",
+            "url":"http://cj.bajiecaiji.com/inc/bjm3u8.php",
+            "cate":"动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,15&&美国剧,17&&日本剧,16&&内地综艺,96日韩综艺,97&&国产动漫,91&&日本动漫,92&&欧美动漫,93",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"飞速(切片)",
+            "url":"https://www.feisuzyapi.com/api.php/provide/vod/from/fsm3u8/at/xml",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,24&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"樱花(切片)",
+            "url":"http://cj.bajiecaiji.com/inc/bjm3u8.php",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,24&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"快云(切片)",
+            "url":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&日韩剧,15&&美国剧,16&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"快播(切片)",
+            "url":"http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"39(切片)",
+            "url":"https://www.39kan.com/api.php/provide/vod/at/xml/",
+            "cate":"动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"天空(切片)",
+            "url":"https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&韩国剧,26&&美国剧,16&&日本剧,24&&大陆综艺,33&&日韩综艺,34&&国产动漫,28&&日本动漫,29&&欧美动漫,30",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"速影(切片)",
+            "url":"https://xn--128-zm3fr26s.xyz/inc/api.php",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"新浪(切片)",
+            "url":"https://api.xinlangapi.com/xinlangapi.php/provide/vod/at/xml/from/xlm3u8/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"光速(切片)",
+            "url":"https://api.guangsuapi.com/api.php/provide/vod/at/xml/from/gsm3u8/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"神速(切片)",
+            "url":"https://api.sszyapi.com/api.php/provide/vod/at/xml/from/ssm3u8/",
+            "cate":"动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"鱼乐(切片)",
+            "url":"https://api.yulecj.com/api.php/provide/vod/from/lem3u8/at/xml/",
+            "cate":"动作片,2&&喜剧片,3&&爱情片,4&&科幻片,5&&恐怖片,6&&剧情片,7&&战争片,8&&国产剧,15&&港台剧,16&&欧美剧,18&&大陆综艺,22&&台湾综艺,24&&日韩综艺,23&&欧美综艺,25&&国产动漫,27&&日韩动漫,28",
+            "click":true,
+            "type":"xml",
+            "detailUrl":""
+        },
+        {
+            "id":1,
+            "name":"美剧虫(APP)",
+            "url":"https://meijuchong.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"https://meijuchong.com/api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"欧美剧,1&&海外剧,2&&日韩剧,3&&电影,4&&动漫,5",
+            "type":"json",
+            "click":true
+        },
+        {
+            "id":1,
+            "name":"美剧范(APP)",
+            "url":"http://ttzmz.net/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"http://ttzmz.net/api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"欧美剧,1&&英剧,2&&动漫,5",
+            "type":"json",
+            "click":true
+        },
 
-    {
-      "id": 1,
-      "name": "百度云2",
-      "url": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&动画电影,20&&国产剧,13&&韩国剧,15&&美国剧,22&&日本剧,16&&大陆综艺,25&&日韩综艺,26&&国产动漫,29&&日韩动漫,30&&欧美动漫,31",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },    
-    {
-      "id": 1,
-      "name": "八戒云",
-      "url": "http://cj.bajiecaiji.com/inc/bjm3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&日本剧,17&&内地综艺,96日韩综艺,97&&国产动漫,91&&日本动漫,92&&欧美动漫,93",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "快云",
-      "url": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&日韩剧,15&&美国剧,16&&综艺,3&&动漫,4",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "快播",
-      "url": "http://www.kuaibozy.com/api.php/provide/vod/from/kbm3u8/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&综艺,3&&动漫,4",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "影派",
-      "url": "https://v.dtjos.com/api.php/provide/vod/at/xml",
-      "cate": "综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&国产动漫,21&&日本动漫,22",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "柚子",
-      "url": "http://tv.aitesucai.xyz/api.php/provide/vod/at/xml",
-      "cate": "32&&蓝光电影,34&&蓝光电视剧,37&&蓝光动漫,38&&蓝光综艺,40&&综艺,3&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,21",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "39影视",
-      "url": "https://www.39kan.com/api.php/provide/vod/at/xml/",
-      "cate": "动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "1886资源",
-      "url": "http://cj.1886zy.co/inc/api.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15&&综艺,3&&动漫,4",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "天空云",
-      "url": "https://api.tiankongapi.com/api.php/provide/vod/at/xml/from/tkm3u8/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&国产剧,13&&韩国剧,26&&美国剧,16&&日本剧,24&&大陆综艺,33&&日韩综艺,34&&国产动漫,28&&日本动漫,29&&欧美动漫,30",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "88云",
-      "url": "http://www.88zyw.net/inc/m3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&国产剧,12&&韩国剧,14&&美国剧,15综艺,3&&国产动漫,22&&日本动漫,21&&欧美动漫,23",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "明日资源",
-      "url": "http://zy.zcocc.com/api.php/provide/vod/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,21",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "独播库",
-      "url": "http://api.dbyunzy.com/api.php/provide/vod/at/xml",
-      "cate": "电影,20&&动作片,21&&喜剧片,22&&爱情片,23&&科幻片,24&&恐怖片,25&&剧情片,26&&战争片,27&&国产剧,32&&港台剧,33&&日韩剧,34&&欧美剧,35",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "橘猫",
-      "url": "http://www.zitv.cc/api.php/provide/vod/at/xml/",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16&&海外剧,21",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "速影",
-      "url": "https://xn--128-zm3fr26s.xyz/inc/api.php",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "追剧",
-      "url": "http://www.huaxiab.com/api.php/provide/vod/at/xml",
-      "cate": "动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "160资源",
-      "url": "http://106.53.96.250/api.php/provide/vod/at/xml",
-      "cate": "1,电影&&2,电视剧&&动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "红牛",
-      "url": "https://www.hongniuzy.com/inc/hnm3u8.php",
-      "cate": "动漫,4&&动作片,6&&喜剧片,7&&爱情片,8&&科幻片,9&&恐怖片,10&&剧情片,11&&战争片,12&&国产剧,13&&港台剧,14&&日韩剧,15&&欧美剧,16",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    },
-    {
-      "id": 1,
-      "name": "88资源",
-      "url": "http://www.88zy.live/inc/m3u8.php",
-      "cate": "动作片,5&&喜剧片,6&&爱情片,7&&科幻片,8&&恐怖片,9&&剧情片,10&&战争片,11&&国产剧,12&&港台剧,13&&日韩剧,14&&欧美剧,15&&综艺,3&&动漫,4",
-      "click": true,
-	  "type": "xml",
-	  "detailUrl": ""
-    }
-  ]
+        {
+            "id":1,
+            "name":"爱酷(APP)",
+            "url":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"https://www.zhanlangbu.com/ruifenglb_api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+            "type":"json",
+            "click":true
+        },
+        {
+            "id":1,
+            "name":"哦呜(APP)",
+            "url":"http://www.cx99999.cn/lvdou_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"http://www.cx99999.cn/lvdou_api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+            "type":"json",
+            "click":true
+        },
+
+        {
+            "id":1,
+            "name":"创意(APP)",
+            "url":"https://www.30dian.cn/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"https://www.30dian.cn/api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+            "type":"json",
+            "click":true
+        },
+        {
+            "id":1,
+            "name":"独播社(APP)",
+            "url":"http://35ys.cc/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"http://35ys.cc/api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+            "type":"json",
+            "click":true
+        },
+
+
+        {
+            "id":1,
+            "name":"暖光(APP)",
+            "url":"https://app.bl210.com/api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"https://app.bl210.com/api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"电影,1&&电视剧,2&&泰剧,3&&动漫,4",
+            "type":"json",
+            "click":true
+        },
+        {
+            "id":1,
+            "name":"益达(APP)",
+            "url":"http://luobu.yss6080.com/mogai_api.php/v1.vod?type=typeId&class=&area=&lang=&year=&page=pageNum",
+            "detailUrl":"http://luobu.yss6080.com/mogai_api.php/v1.vod/detail?vod_id=detailId",
+            "cate":"电影,1&&电视剧,2&&综艺,3&&动漫,4",
+            "type":"json",
+            "click":true
+        }
+    ]
 }
