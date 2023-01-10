@@ -17,38 +17,6 @@
       "webPlus": {}
     }, 
     {
-      "name": "douyu测试",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/yu.m3u",
-      "type": "m3u",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    },  
-    {
-      "name": "huya测试",
-      "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/ya.m3u",
-      "type": "m3u",
-      "subTitle": "",
-      "click": true,
-      "autoNext": false,
-      "webOpen": false,
-      "keyDownPlay": true,
-      "keyUpPlay": true,
-      "userAgent": "",
-      "ads": "",
-      "decoder": 0,
-      "webPlus": {}
-    }, 
-    {
       "name": "txt格式测试源",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
       "webUrl": "https://cdn.jsdelivr.net/gh/FreeDTV/FreeD@latest/tv/douyu.txt",
