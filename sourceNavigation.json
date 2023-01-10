@@ -1,9 +1,9 @@
 {
   "data": [
     {
-      "name": "4K/8K源",
+      "name": "测试",
       "pic": "https://imgpub.chuangkit.com/materials/2021/08/17/b2e6c85e-27e4-461b-bc3b-3cef6b6a2d4e?x-oss-process=image/resize,w_200/format,webp",
-      "webUrl": "https://ghproxy.com/https://raw.githubusercontent.com/youshandefeiyang/IPTV/main/main/IPTV.m3u",
+      "webUrl": "https://ghproxy.com/https://raw.githubusercontent.com/shenhuash01/IPTV/main/IPTV.m3u",
       "type": "m3u",
       "subTitle": "",
       "click": true,
